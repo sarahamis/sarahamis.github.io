@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-This website in under construction.
+This website is under construction.
 
 # Please come back in Feb 2024.
 
