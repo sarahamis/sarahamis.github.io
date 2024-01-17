@@ -9,6 +9,3 @@ author_profile: true
 
 Media.
 
-{% for post in site.portfolio %}
-  {% include archive-single.html %}
-{% endfor %}
