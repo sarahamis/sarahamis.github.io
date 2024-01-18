@@ -7,5 +7,5 @@ author_profile: true
 
 {% include base_path %}
 
-Media.
+Media will be updated on Feb 1st, 2024.
 
