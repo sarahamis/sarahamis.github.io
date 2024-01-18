@@ -7,5 +7,4 @@ author_profile: true
 
 {% include base_path %}
 
-Mathematical oncology.
-
+Research information will be updated on Feb 1st, 2024.
