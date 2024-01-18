@@ -7,4 +7,4 @@ author_profile: true
 
 
 
-Group.
+Group information will be updated on Feb 1st, 2024.
