@@ -13,12 +13,14 @@ youtubeId: a6enBhsbrX4?si=H2ebPhr6FQ_0M1oL
 
 <div class="container">
   <div class="left-column">
-    <h2>Left Column</h2>
-    <p> ## A one-minute film about my research </p>
+    <h2> A one-minute film about my research </h2>
+    <p> This film introduces my mathematical oncology research.
+    It was filmed at Tampere University, where I was a Wenner-Gren Fellow and a Tampere Institute for Advanced Study Fellow (2021-2023).
+     </p>
   </div>
 
   <div class="right-column">
-    <h2>Right Column</h2>
+    <h2> </h2>
     <p> {% include youtubePlayer.html id=page.youtubeId %} </p>
   </div>
 </div>
