@@ -6,11 +6,6 @@ author_profile: true
 youtubeId: a6enBhsbrX4?si=H2ebPhr6FQ_0M1oL
 ---
 
-
-
-
-
-
 <div class="container">
   <div class="left-column">
     <h2> A one-minute film about my research </h2>
@@ -29,6 +24,7 @@ youtubeId: a6enBhsbrX4?si=H2ebPhr6FQ_0M1oL
   .container {
     display: flex;
     justify-content: space-between;
+    align-items: center; /* Center vertically */
   }
 
   .left-column {
@@ -40,5 +36,11 @@ youtubeId: a6enBhsbrX4?si=H2ebPhr6FQ_0M1oL
     flex: 1;
     margin-left: 10px; /* Adjust the spacing between columns as needed */
   }
-</style>
 
+  .content {
+    display: flex;
+    flex-direction: column;
+    align-items: center; /* Center vertically */
+    text-align: center; /* Center horizontally */
+  }
+</style>
