@@ -6,6 +6,8 @@ author_profile: true
 youtubeId: a6enBhsbrX4?si=H2ebPhr6FQ_0M1oL
 ---
 
+Mathematics can help us understand cancer. 
+I want to communicate this to researchers, students, and curious minds. 
 A selection of my social media contributions are shown on this page.
 
 <div class="container">
@@ -60,7 +62,7 @@ A selection of my social media contributions are shown on this page.
   <div class="right-column">
     <h2> </h2>
     <p> <div class="spotify-embed">
-  <iframe src="https://open.spotify.com/embed/episode/2V9Z99kOiPvjWa1edYKr9G?utm_source=generator" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+  <iframe src="https://open.spotify.com/embed/episode/2V9Z99kOiPvjWa1edYKr9G?utm_source=generator" width="100%" height="500px" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 </div> </p>
   </div>
 </div>
