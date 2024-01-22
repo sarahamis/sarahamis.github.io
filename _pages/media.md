@@ -14,7 +14,7 @@ A selection of my social media contributions are shown on this page.
   <div class="left-column">
     <h2> A one-minute film about my research </h2>
     <p> I introduce my mathematical oncology research in this film. 
-    It was filmed at Tampere University, where I was a Wenner-Gren Fellow and a Tampere Institute for Advanced Study Fellow (2021-2023).
+    It was filmed at Tampere University, where I was a Wenner-Gren Fellow and a Tampere Institute for Advanced Study Fellow (2022-2023).
      </p>
   </div>
 
