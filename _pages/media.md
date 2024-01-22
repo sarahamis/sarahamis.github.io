@@ -55,7 +55,7 @@ A selection of my social media contributions are shown on this page.
   <div class="left-column">
     <h2> A podcast episode in Biology in Numbers </h2>
     <p> I chat with podcast host Parmvir Bahia about my research article that won the Lee A. Segel Prize.
-    We also talk about life as a researcher. 
+    We also talk about life in Academia. 
      </p>
   </div>
 
