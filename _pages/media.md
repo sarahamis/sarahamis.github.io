@@ -44,3 +44,11 @@ youtubeId: a6enBhsbrX4?si=H2ebPhr6FQ_0M1oL
     text-align: center; /* Center horizontally */
   }
 </style>
+
+
+
+<div class="spotify-embed">
+  <iframe src="https://open.spotify.com/embed/episode/2V9Z99kOiPvjWa1edYKr9G?utm_source=generator" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+</div>
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/2V9Z99kOiPvjWa1edYKr9G?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
