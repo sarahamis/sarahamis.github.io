@@ -71,7 +71,6 @@ A selection of my social media contributions are shown on this page.
   .container {
     display: flex;
     justify-content: space-between;
-    align-items: center; /* Center vertically */
   }
 
   .left-column {
