@@ -103,7 +103,7 @@ A selection of my social media contributions are shown on this page.
 
   <div class="right-column">
     <h2> </h2>
-    <p> <iframe src="https://mathematical-oncology.org/blog/learning-from-failed-model-predictions.html" frameborder="0" width="100%" height="40px"></iframe>
+    <p> <iframe src="https://mathematical-oncology.org/blog/learning-from-failed-model-predictions.html" frameborder="0" width="100%" height="400px"></iframe>
 </p>
   </div>
 </div>
