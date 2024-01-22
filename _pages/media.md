@@ -62,7 +62,7 @@ A selection of my social media contributions are shown on this page.
   <div class="right-column">
     <h2> </h2>
     <p> <div class="spotify-embed">
-  <iframe src="https://open.spotify.com/embed/episode/2V9Z99kOiPvjWa1edYKr9G?utm_source=generator" width="100%" height="500px" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+  <iframe src="https://open.spotify.com/embed/episode/2V9Z99kOiPvjWa1edYKr9G?utm_source=generator" width="100%" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 </div> </p>
   </div>
 </div>
