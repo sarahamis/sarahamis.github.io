@@ -96,7 +96,7 @@ A selection of my social media contributions are shown on this page.
   <div class="left-column">
     <h2> A Mathematical Oncology blog post </h2>
     <p> I write about what we can learn from failed model predictions. 
-      The post is hosted on the Mathematical Oncology blog, where I am an assistant editor. 
+      The post is hosted on the <a href="https://mathematical-oncology.org/">Mathematical Oncology Blog</a>, where I am an assistant editor. 
      </p>
   </div>
 
