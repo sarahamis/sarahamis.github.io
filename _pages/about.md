@@ -14,7 +14,7 @@ My research focuses on developing mathematical, statistical and computational me
 I previously worked at the University of St Andrews (Scotland), Tampere University and the University of Jyväskylä (Finland), and Swansea University (Wales). 
 
 <p>
-<span style="color: #cc0000;">*This information will be updated February 1st, 2024.*</span>
+<span style="color: #cc0000;">This information will be updated February 1st, 2024. </span>
 </p>
 
 ### Working with me
