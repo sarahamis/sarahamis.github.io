@@ -9,7 +9,7 @@ author_profile: true
 
 I am a mathematician who studies cancer. 
 My research focuses on developing mathematical, statistical and computational methods to understand and predict cancer dynamics. 
-A selection of research topics that drive my research and the <a href="https://sarahamis.github.io/group/">group</a> are listed below.
+A selection of research topics that drive my research and the <a href="https://sarahamis.github.io/group/">group</a> is listed below.
 
 ### <span style="color: #6488ea">Quantifying cell-to-cell interactions</span>
 Cancer cells interact with each other. We develop mathematical models and Bayesian inference methods to quantify cell-to-cell interactions from cell imaging data. We also evaluate the role that these interactions play in therapy resistance and disease progression. 
