@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Sara Hamis"
 title_separator          : "-"
 name                     : &name "Sara Hamis"
-description              : &description "Wenner-Gren Fellow"
+description              : &description "Wenner-Gren Fellow and Assistant Professor in Machine Learning, with specialisation in applications in life sciences"
 url                      : https://sarahamis.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "sjhamis.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Sara Hamis"
   avatar           : "tampere-profile-pic-square.png"
-  bio              : "Wenner-Gren Fellow"
-  location         : "Uppsala, Sweden"
+  bio              : "Wenner-Gren Fellow and Assistant Professor in Machine Learning, with specialisation in applications in life sciences."
+  location         : "Uppsala University, Sweden"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=wyxVj_sAAAAJ&hl=en"
