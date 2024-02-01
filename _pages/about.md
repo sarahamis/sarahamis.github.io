@@ -10,12 +10,12 @@ redirect_from:
 
 <p>
 I am an Assistant Professor in Machine Learning and a 
-<a href="https://sarahamis.github.io/contact/">Wenner-Gren Fellow</a>  
+<a href="https://www.swgc.org/">Wenner-Gren Fellow</a>  
 at the 
 <a href="https://beijerstiftelsen.se/en/partners/the-beijer-laboratory-ai-research">Beijer Artificial Intelligence Laboratory</a>. 
 My research focuses on developing mathematical, statistical and computational methods to understand and predict cancer dynamics. 
 I am spearheading the 
-<a href="https://sarahamis.github.io/group/">Artificial Intelligence and Mathematics for Oncology (__AIMOn__)</a> 
+<a href="https://sarahamis.github.io/group/">Artificial Intelligence and Mathematics for Oncology (**AIMOn**)</a> 
 research group at Uppsala University. 
 </p>
 
