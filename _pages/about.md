@@ -15,7 +15,7 @@ at the
 <a href="https://beijerstiftelsen.se/en/partners/the-beijer-laboratory-ai-research">Beijer Artificial Intelligence Laboratory</a>. 
 My research focuses on developing mathematical, statistical and computational methods to understand and predict cancer dynamics. 
 I am spearheading the 
-<a href="https://sarahamis.github.io/group/">Artificial Intelligence and Mathematics for Oncology (**AIMOn**)</a> 
+<a href="https://sarahamis.github.io/group/">Artificial Intelligence and Mathematics for Oncology (AIMOn)</a> 
 research group at Uppsala University. 
 </p>
 
