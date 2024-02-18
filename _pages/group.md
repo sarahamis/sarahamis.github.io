@@ -10,12 +10,12 @@ author_profile: true
 <p>The group has 2 open PhD positions in Mathematical and Computational Oncology.</p>
 
 <p>
-We are looking for candidates with a background in physics/mathematics/statistics/similar and a keen interest in using AI and mathematics for applications in cancer research. 
+We are looking for candidates with a background in physics, mathematics, statistics or a similar subject, and a keen interest in using AI and mathematics for applications in cancer research. 
 </p>
 
 <p>
 <b>Position 1</b>: PhD student in Machine Learning with a focus on scientific computing for applications in cancer research.<br>
-<b>Apply by__: March 28, 2024.<br>
+<b>Apply by</b>: March 28, 2024.<br>
 <a href="https://www.jobb.uu.se/details/?positionId=701887">Link to project description and application</a>.    
 </p>
 
