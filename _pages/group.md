@@ -16,13 +16,13 @@ We are looking for candidates with a background in physics/mathematics/statistic
 <p>
 __Position 1__: PhD student in Machine Learning with a focus on scientific computing for applications in cancer research.  
 __Apply by__: March 28, 2024.  
-__Link__: [Project description and application](https://www.jobb.uu.se/details/?positionId=701887).     
+<a href="https://www.jobb.uu.se/details/?positionId=701887">Link to project description and application</a>.       
 </p>
 
 <p>
 __Position 2__: PhD student at the Centre for Interdiciplinary Mathematics
-__Apply by__: April 1st, 2024. 
-__Links__: [Project description](https://www.math.uu.se/digitalAssets/1078/c_1078262-l_3-k_7-hamis-engblom-sjogren-akerrenogren-integrating-mathematical-models-with-sparse-time-series-data-to.pdf) 
+__Apply by__: April 1st, 2024.   
+__Links__: <a href="https://www.math.uu.se/digitalAssets/1078/c_1078262-l_3-k_7-hamis-engblom-sjogren-akerrenogren-integrating-mathematical-models-with-sparse-time-series-data-to.pdf"> Link to project description</a>.  
 </p>
 
 <p>
