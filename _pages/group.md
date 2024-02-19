@@ -5,7 +5,7 @@ permalink: /group/
 author_profile: true
 ---
 
-The group is part of the Division for Systems and Control at the Department of Information Technology at Uppsala University, Sweden. 
+We are part of the Division for Systems and Control at the Department of Information Technology at Uppsala University, Sweden. 
 
 ## Open PhD positions
 
