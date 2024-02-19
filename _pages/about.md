@@ -28,7 +28,7 @@ I previously worked as a researcher at the University of St Andrews (Scotland), 
 <a href="https://sarahamis.github.io/contact/">Contact me</a> 
 if you're a researcher, prospective PhD student or a University student who is looking for an opportunity to collaborate on a mathematical and computational oncology project. 
 
-### <span style="color: #cc0000;">*News*</span>
+## <span style="color: #cc0000;">*News*</span>
 <p>
 <span style="color: #cc0000;"><b>19-02-2024:</b></span> Open position in the AIMOn group: PhD student in interdisciplinary mathematics with a focus on bio-medical modelling. Apply by 22-03-2024. Read more on the <a href="https://sarahamis.github.io/group/">group page</a>.
 </p>
