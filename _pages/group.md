@@ -30,7 +30,7 @@ The applications to Position 1 and Position 2 are handled by separate electronic
 </p>
 
 <p>
-<b>What we offer:</b>: 
+<b>What we offer</b>: 
   <ul>
   <li>A supportive research environment.</li>
   <li>Local and international multidisciplinary collaborations.</li>
