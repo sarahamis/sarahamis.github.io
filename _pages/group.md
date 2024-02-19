@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "The AI and Mathematics for Oncology (AIMOn)"
+title: "The AI and Mathematics for Oncology (AIMOn) group"
 permalink: /group/
 author_profile: true
 ---
