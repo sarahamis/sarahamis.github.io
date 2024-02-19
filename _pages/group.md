@@ -45,7 +45,7 @@ Prospective applicants are encouraged to <a href="https://sarahamis.github.io/co
 
 
 ## Upcoming postdoc positions
-<p>Applications for postdoctoral research positions are scheduled to open in spring 2024. Prospective applicants are welcom to <a href="https://sarahamis.github.io/contact/">contact me (Sara Hamis)</a> with questions about the upcoming positions. </p>
+<p>Applications for postdoctoral research positions are scheduled to open in spring 2024. Prospective applicants are welcome to <a href="https://sarahamis.github.io/contact/">contact me (Sara Hamis)</a> with questions about the upcoming positions. </p>
 
 
 
