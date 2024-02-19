@@ -1,9 +1,11 @@
 ---
 layout: archive
-title: "The AI and Mathematics for Oncology (AIMOn) Group at Uppsala University"
+title: "The AI and Mathematics for Oncology (AIMOn)"
 permalink: /group/
 author_profile: true
 ---
+
+We are part of the Division for Systems and Control at the Department of Information Technology at Uppsala University, Sweden. 
 
 ## Open PhD positions
 
