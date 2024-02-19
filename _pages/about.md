@@ -29,11 +29,13 @@ I previously worked as a researcher at the University of St Andrews (Scotland), 
 if you're a researcher, prospective PhD student or a University student who is looking for an opportunity to collaborate on a mathematical and computational oncology project. 
 
 ### <span style="color: #cc0000;">*News*</span>
+<p>
+<span style="color: #cc0000;">19-02-2024</span> Open position in the AIMOn group: PhD student in interdisciplinary mathematics with a focus on bio-medical modelling. Deadline 22-03-2024. Read more on the <a href="https://sarahamis.github.io/group/">group page</a>.
+</p>
 
-
-
-
-
+<p>
+<span style="color: #cc0000;">15-02-2024</span> Open position in the AIMOn group: PhD student in Machine Learning with a focus on scientific computing for applications in cancer research. Deadline 28-03-2024. Read more on the <a href="https://sarahamis.github.io/group/">group page</a>.
+</p>
 
 
 
