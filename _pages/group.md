@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Group"
+title: "The AI and Mathematics for Oncology (AIMOn) Group at Uppsala University"
 permalink: /group/
 author_profile: true
 ---
