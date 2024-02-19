@@ -24,7 +24,7 @@ We are looking for candidates with a background in physics, mathematics, statist
 <p>
 <b>Position 2</b>: PhD student in interdisciplinary mathematics with a focus on bio-medical modelling.<br>
 <b>Apply by</b>: March 22, 2024.<br>
-<a href="https://www.math.uu.se/digitalAssets/1078/c_1078262-l_3-k_7-hamis-engblom-sjogren-akerrenogren-integrating-mathematical-models-with-sparse-time-series-data-to.pdf"> Link to project description</a>. <a href="https://www.math.uu.se/the-department/vacant-positions/?positionId=702358"> Link to application</a>.
+<a href="https://www.math.uu.se/digitalAssets/1078/c_1078262-l_3-k_7-hamis-engblom-sjogren-akerrenogren-integrating-mathematical-models-with-sparse-time-series-data-to.pdf"> Link to project description</a>. <a href="https://www.math.uu.se/the-department/vacant-positions/?positionId=702358"> Link to application</a>. Choose Project 7 in the list of projects.
 </p>
 
 <p>
