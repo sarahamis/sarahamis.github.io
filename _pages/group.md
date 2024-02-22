@@ -5,7 +5,7 @@ permalink: /group/
 author_profile: true
 ---
 
-We are part of the Division for Systems and Control at the Department of Information Technology at Uppsala University, Sweden. We are committed to fostering a supportive and welcoming group climate for all. 
+We are part of the Division for Systems and Control at the Department of Information Technology at Uppsala University, Sweden. We are committed to fostering a supportive, welcoming and inclusive group climate. 
 
 ## Open PhD positions
 
@@ -47,7 +47,7 @@ Prospective applicants are encouraged to <a href="https://sarahamis.github.io/co
 
 
 ## Upcoming postdoc positions
-<p>Applications for postdoctoral research positions are scheduled to open in spring 2024. Prospective applicants are welcome to <a href="https://sarahamis.github.io/contact/">contact me (Sara Hamis)</a> with questions about the upcoming positions. </p>
+<p>Applications for postdoctoral research positions are scheduled to open in March 2024. Planned topic of Position 1: Bayesian parameter estimation and identifiability of cell-to-cell interactions. Planned topic of Position 2: Computational tools for interdiciplinary communication and education in mathematical biology. Prospective applicants are welcome to <a href="https://sarahamis.github.io/contact/">contact me (Sara Hamis)</a> with questions about the upcoming positions. </p>
 
 
 
