@@ -47,7 +47,7 @@ Prospective applicants are encouraged to <a href="https://sarahamis.github.io/co
 
 
 ## Upcoming postdoc positions
-<p>Applications for postdoctoral research positions are scheduled to open in March 2024. Planned topic of Position 1: Bayesian parameter estimation and identifiability of cell-to-cell interactions. Planned topic of Position 2: Computational tools for interdiciplinary communication and education in mathematical biology. Prospective applicants are welcome to <a href="https://sarahamis.github.io/contact/">contact me (Sara Hamis)</a> with questions about the upcoming positions. </p>
+<p>Applications for postdoctoral research positions are scheduled to open in spring 2024. Planned topic of Position 1: Bayesian inference for cell biology applications. Planned topic of Position 2: Interdiciplinary communication and education in mathematical biology/oncology. Prospective applicants are welcome to <a href="https://sarahamis.github.io/contact/">contact me (Sara Hamis)</a> with questions about the upcoming positions. </p>
 
 
 
