@@ -54,8 +54,8 @@ We are looking for candidates with a background in mathematics/statistics/machin
 </p>
 
 <p>
-<b>Apply by</b>: X, 2024.<br>
-<a href="">Link to project description and application</a>.    
+<b>Apply by</b>: April 29th, 2024.<br>
+<a href="">Link to project description and application (coming soon)</a>.    
 </p>
 
 <p>
