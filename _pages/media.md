@@ -54,14 +54,15 @@ A selection of my social media contributions are shown on this page.
 <div class="container">
   <div class="left-column">
     <h2> 3 questions about my research (in Swedish) </h2>
-    <p> I answer 3 questions about my research at the Beijer Laboratory for AI research.
+    <p> I answer 3 questions about my research at the Beijer Laboratory for AI research.</p>
+    <p style="font-family: cursive;">
     Jag svarar på 3 frågor om min forskning vid Beijerlaboratoriet för AI-forskning.
-     </p>
+    </p>
   </div>
 
   <div class="right-column">
     <h2> </h2>
-    <p> <iframe src="https://www.beijerstiftelsen.se/nyheter/3-fr%C3%A5gor-till-nya-beijerforskaren-sara-hamis" frameborder="0" width="100%" height="400px"></iframe>
+    <p> 
 </p>
   </div>
 </div>
