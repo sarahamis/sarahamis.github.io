@@ -51,6 +51,54 @@ A selection of my social media contributions are shown on this page.
 
 
 
+
+
+
+<div class="container">
+  <div class="left-column">
+    <h2> A Mathematical Oncology blog post </h2>
+    <p> I write about what we can learn from failed model predictions. 
+      The post is hosted on the <a href="https://mathematical-oncology.org/">Mathematical Oncology Blog</a>, where I am an assistant editor. 
+     </p>
+  </div>
+
+  <div class="right-column">
+    <h2> </h2>
+    <p> <iframe src="https://mathematical-oncology.org/blog/learning-from-failed-model-predictions.html" frameborder="0" width="100%" height="400px"></iframe>
+</p>
+  </div>
+</div>
+
+<style>
+  .container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center; /* Center vertically */
+  }
+
+  .left-column {
+    flex: 1;
+    margin-right: 10px; /* Adjust the spacing between columns as needed */
+  }
+
+  .right-column {
+    flex: 1;
+    margin-left: 10px; /* Adjust the spacing between columns as needed */
+  }
+
+  .content {
+    display: flex;
+    flex-direction: column;
+    align-items: center; /* Center vertically */
+    text-align: center; /* Center horizontally */
+  }
+</style>
+
+
+
+
+
+
 <div class="container">
   <div class="left-column">
     <h2> A podcast episode in Biology in Numbers </h2>
@@ -90,6 +138,10 @@ A selection of my social media contributions are shown on this page.
     text-align: center; /* Center horizontally */
   }
 </style>
+
+
+
+
 
 
 <div class="container">
