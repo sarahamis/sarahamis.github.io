@@ -53,6 +53,67 @@ A selection of my social media contributions are shown on this page.
 
 <div class="container">
   <div class="left-column">
+    <h2> 3 questions about my research (in Swedish) </h2>
+    <p> I answer 3 questions about my research at the Beijer Laboratory for AI research.
+    Jag svarar på 3 frågor om min forskning vid Beijerlaboratoriet för AI-forskning.
+     </p>
+  </div>
+
+  <div class="right-column">
+    <h2> </h2>
+    <p> <iframe src="https://www.beijerstiftelsen.se/nyheter/3-fr%C3%A5gor-till-nya-beijerforskaren-sara-hamis" frameborder="0" width="100%" height="400px"></iframe>
+</p>
+  </div>
+</div>
+
+<style>
+  .container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center; /* Center vertically */
+  }
+
+  .left-column {
+    flex: 1;
+    margin-right: 10px; /* Adjust the spacing between columns as needed */
+  }
+
+  .right-column {
+    flex: 1;
+    margin-left: 10px; /* Adjust the spacing between columns as needed */
+  }
+
+  .content {
+    display: flex;
+    flex-direction: column;
+    align-items: center; /* Center vertically */
+    text-align: center; /* Center horizontally */
+  }
+</style>
+
+
+
+
+<div class="container">
+  <div class="left-column">
+    <h2>  </h2>
+    <p> 
+     </p>
+  </div>
+
+  <div class="right-column">
+    <h2> </h2>
+    <p> {% include youtubePlayer.html id=page.youtubeId %} </p>
+  </div>
+</div>
+
+</style>
+
+
+
+
+<div class="container">
+  <div class="left-column">
     <h2> A podcast episode in Biology in Numbers </h2>
     <p> I chat with podcast host Parmvir Bahia about my research article that won the 
       <a href="https://www.smb.org/Lee-A.Segel-Prize">Lee A. Segel Prize</a>. We also talk about life in Academia. 
