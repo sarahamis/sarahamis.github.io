@@ -56,10 +56,9 @@ A selection of my social media contributions are shown on this page.
 
 <div class="container">
   <div class="left-column">
-    <h2> A Mathematical Oncology blog post </h2>
-    <p> I write about what we can learn from failed model predictions. 
-      The post is hosted on the <a href="https://mathematical-oncology.org/">Mathematical Oncology Blog</a>, where I am an assistant editor. 
-     </p>
+    <h2> A three-question interview (in Swedish) </h2>
+    <p> I answer three questions about my research at the Beijer Laboratory for AI research. </p> 
+    <p><i> Jag svarar på tre frågor om min forskning vid Beijerlaboratoriet för AI-forskning. </i></p> 
   </div>
 
   <div class="right-column">
