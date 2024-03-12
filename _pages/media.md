@@ -164,7 +164,8 @@ Jag svarar på 3 frågor om min forskning vid Beijerlaboratoriet för AI-forskni
   <div class="right-column">
     <h2> </h2>
     <p> 
-      <img src="https://www.beijerstiftelsen.se/nyheter/3-fr%C3%A5gor-till-nya-beijerforskaren-sara-hamis" alt="To the interview">
+      <img src="https://github.com/sarahamis/sarahamis.github.io/blob/master/images/beijer_3q.png?raw=true" alt="">
+      <a href="https://www.beijerstiftelsen.se/nyheter/3-fr%C3%A5gor-till-nya-beijerforskaren-sara-hamis">To the interview</a>
     </p>
   </div>
 </div>
