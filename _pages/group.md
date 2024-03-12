@@ -45,9 +45,36 @@ The applications to Position 1 and Position 2 are handled by separate electronic
 Prospective applicants are encouraged to <a href="https://sarahamis.github.io/contact/">contact me (Sara Hamis)</a> with any questions about the applications or positions. 
 </p>
 
+## Open postdoc position
+
+<p>The group has an open postoc position in Bayesian inference for cell biology applications.</p>
+
+<p>
+We are looking for candidates with a background in mathematics/statistics/machine learning/similar and a keen interest in using mathematics and AI for applications in cancer research. 
+</p>
+
+<p>
+<b>Apply by</b>: X, 2024.<br>
+<a href="">Link to project description and application</a>.    
+</p>
+
+<p>
+<b>What we offer</b>: 
+  <ul>
+  <li>A supportive research environment.</li>
+  <li>Local and international multidisciplinary collaborations.</li>
+  <li>Competitive career progression opportunities. </li>
+  <li>2 years’ salary.</li>
+</ul>
+</p>
+
+<p>
+Prospective applicants are welcome to <a href="https://sarahamis.github.io/contact/">contact me (Sara Hamis)</a> with any questions about the applications or positions. 
+</p>
+
 
 ## Upcoming postdoc positions
-<p>Applications for postdoctoral research positions are scheduled to open in spring 2024. Planned topic of Position 1: Bayesian inference for cell biology applications. Planned topic of Position 2: Interdiciplinary communication and education in mathematical biology/oncology. Prospective applicants are welcome to <a href="https://sarahamis.github.io/contact/">contact me (Sara Hamis)</a> with questions about the upcoming positions. </p>
+<p>Planned to open in spring 2024: Interdiciplinary communication and education in mathematical biology/oncology. Prospective applicants are welcome to <a href="https://sarahamis.github.io/contact/">contact me (Sara Hamis)</a> with questions about the upcoming positions. </p>
 
 
 
