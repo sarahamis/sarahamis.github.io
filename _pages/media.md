@@ -51,53 +51,6 @@ A selection of my social media contributions are shown on this page.
 
 
 
-
-
-
-<div class="container">
-  <div class="left-column">
-    <h2> A three-question interview (in Swedish) </h2>
-    <p> I answer three questions about my research at the Beijer Laboratory for AI research. </p> 
-    <p><i> Jag svarar på tre frågor om min forskning vid Beijerlaboratoriet för AI-forskning. </i></p> 
-  </div>
-
-  <div class="right-column">
-    <h2> </h2>
-    <p> <iframe src="https://mathematical-oncology.org/blog/learning-from-failed-model-predictions.html" frameborder="0" width="100%" height="400px"></iframe>
-</p>
-  </div>
-</div>
-
-<style>
-  .container {
-    display: flex;
-    justify-content: space-between;
-    align-items: center; /* Center vertically */
-  }
-
-  .left-column {
-    flex: 1;
-    margin-right: 10px; /* Adjust the spacing between columns as needed */
-  }
-
-  .right-column {
-    flex: 1;
-    margin-left: 10px; /* Adjust the spacing between columns as needed */
-  }
-
-  .content {
-    display: flex;
-    flex-direction: column;
-    align-items: center; /* Center vertically */
-    text-align: center; /* Center horizontally */
-  }
-</style>
-
-
-
-
-
-
 <div class="container">
   <div class="left-column">
     <h2> A podcast episode in Biology in Numbers </h2>
@@ -137,10 +90,6 @@ A selection of my social media contributions are shown on this page.
     text-align: center; /* Center horizontally */
   }
 </style>
-
-
-
-
 
 
 <div class="container">
