@@ -31,6 +31,11 @@ if you're a researcher, prospective PhD student or a University student who is l
 ## <span style="color: #cc0000;">*News*</span>
 
 <p>
+<span style="color: #cc0000;"><b>20-03-2024:</b></span> Open position in the AIMOn group: Postdoctoral researcher in Bayesian inference for cell biology applications. Apply by 29-04-2024. Read more on the <a href="https://sarahamis.github.io/group/">group page</a>.
+</p>
+
+
+<p>
 <span style="color: #cc0000;"><b>24-02-2024:</b></span> Media: A 3 question interview (in Swedish) about my research is live on the <a href="https://www.beijerstiftelsen.se/nyheter/3-fr%C3%A5gor-till-nya-beijerforskaren-sara-hamis">Beijer Foundation's website</a>.
 </p>
 
