@@ -55,7 +55,7 @@ We are looking for candidates with a background in mathematics/statistics/machin
 
 <p>
 <b>Apply by</b>: April 29th, 2024.<br>
-<a href="">Link to project description and application (coming soon)</a>.    
+<a href="https://www.jobb.uu.se/details/?positionId=709844">Link to project description and application</a>.    
 </p>
 
 <p>
