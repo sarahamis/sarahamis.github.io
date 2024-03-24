@@ -41,7 +41,7 @@ if you're a researcher, prospective PhD student or a University student who is l
 
 
 <p>
-<span style="color: #cc0000;"><b>19-02-2024:</b></span> Open position in the AIMOn group: PhD student in interdisciplinary mathematics with a focus on bio-medical modelling. <span style="color: #cc0000;"><b>[applications closed]</b></span>.
+<span style="color: #cc0000;"><b>19-02-2024:</b></span> Open position in the AIMOn group: PhD student in interdisciplinary mathematics with a focus on bio-medical modelling. <span style="color: #cc0000;"><i>[applications closed]</i></span>.
 </p>
 
 <p>
