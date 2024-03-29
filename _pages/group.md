@@ -32,12 +32,12 @@ We are looking for candidates with a background in mathematics/statistics/machin
 </p>
 
 <p>
-Prospective applicants are welcome to <a href="https://sarahamis.github.io/contact/">contact me (Sara Hamis)</a> with any questions about the applications or positions. 
+Prospective applicants are welcome to <a href="https://sarahamis.github.io/contact/">contact me (Sara Hamis)</a> with questions about the application or position. 
 </p>
 
 
-## Upcoming postdoc positions
-<p>Planned to open in spring 2024: Interdiciplinary communication and education in mathematical biology/oncology. Prospective applicants are welcome to <a href="https://sarahamis.github.io/contact/">contact me (Sara Hamis)</a> with questions about the upcoming positions. </p>
+## Upcoming postdoc position
+<p>Planned to open in spring 2024: Interdiciplinary communication and education in mathematical biology/oncology. Prospective applicants are welcome to <a href="https://sarahamis.github.io/contact/">contact me (Sara Hamis)</a> with questions about the position. </p>
 
 
 ## Open PhD positions [applications closed, selection in progess]
