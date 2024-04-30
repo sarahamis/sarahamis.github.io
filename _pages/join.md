@@ -11,8 +11,8 @@ MSc projects will be listed in summer 2024.
 # Upcoming positions 
 
 <div style="background-color: #e0f7fa; border: 2px solid gray; border-radius: 8px; padding: 20px; margin: 20px;">
-<strong> Upcoming postdoc position in interdiciplinary communication and education in mathematical biology/oncology. </strong>
-Prospective applicants are welcome to <a href="https://sarahamis.github.io/contact/">contact me (Sara Hamis)</a> with questions about the position. </p>
+<strong> Postdoc position in interdiciplinary communication and education in mathematical biology/oncology. </strong>
+Prospective applicants are welcome to <a href="https://sarahamis.github.io/contact/">contact me (Sara Hamis)</a> with questions about the position.
 </div>
 
 
@@ -21,7 +21,7 @@ Prospective applicants are welcome to <a href="https://sarahamis.github.io/conta
 <div style="background-color: #e0f7fa; border: 2px solid gray; border-radius: 8px; padding: 20px; margin: 20px;">
 <strong> 20-03-2024: Postdoc position in Bayesian inference for cell biology applications.</strong> 
 <p>
-We are looking for candidates with a background in mathematics/statistics/machine learning/similar and a keen interest in using mathematics and AI for applications in cancer research. <b>Apply by</b>: April 29th, 2024.<br>
+We are looking for candidates with a PhD in computational mathematics/statistics/similar and a keen interest in using Bayesian inference for applications in cell biology research. <b>Apply by</b>: April 29th, 2024.<br>
 </p>  
 <p>  
 <a href="https://www.jobb.uu.se/details/?positionId=709844">Link to project description and application</a>.    
