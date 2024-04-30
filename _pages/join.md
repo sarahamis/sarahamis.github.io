@@ -1,5 +1,18 @@
+---
+layout: archive
+title: "Work with us"
+permalink: /join/
+author_profile: true
+---
+# Open positions
 
-## Open postdoc position
+# Upcoming positions
+## Upcoming postdoc position
+<p>Planned to open in spring 2024: Interdiciplinary communication and education in mathematical biology/oncology. Prospective applicants are welcome to <a href="https://sarahamis.github.io/contact/">contact me (Sara Hamis)</a> with questions about the position. </p>
+
+# Closed positions
+
+## 20-03-2024: Postdoc position [applications closed, selection in progess]
 
 <p>The group has an open postoc position in Bayesian inference for cell biology applications.</p>
 
@@ -27,11 +40,7 @@ Prospective applicants are welcome to <a href="https://sarahamis.github.io/conta
 </p>
 
 
-## Upcoming postdoc position
-<p>Planned to open in spring 2024: Interdiciplinary communication and education in mathematical biology/oncology. Prospective applicants are welcome to <a href="https://sarahamis.github.io/contact/">contact me (Sara Hamis)</a> with questions about the position. </p>
-
-
-## Open PhD positions [applications closed, selection in progess]
+## 19-02-2024: PhD positions [applications closed, selection in progess]
 
 <p>The group has 2 open PhD positions in Mathematical and Computational Oncology.</p>
 
