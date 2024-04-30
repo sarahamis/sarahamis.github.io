@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Work with us"
-permalink: /join
+permalink: /join/
 ---
 # Open positions (0)
 
