@@ -5,7 +5,7 @@ permalink: /join/
 author_profile: true
 ---
 
-Information about job openings and MSc projects are listed here.
+Information about job openings and MSc projects are listed below.
   
 # MSc Projects
 MSc projects will be listed in summer 2024.
