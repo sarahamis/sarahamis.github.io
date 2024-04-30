@@ -10,16 +10,16 @@ MSc projects will be listed in summer 2024.
 
 # Upcoming positions 
 
-<div style="background-color: lightblue; border: 2px solid gray; border-radius: 8px; padding: 20px; margin: 20px;">
-### Upcoming postdoc position
+<div style="background-color: #e0f7fa; border: 2px solid gray; border-radius: 8px; padding: 20px; margin: 20px;">
+#### **Upcoming postdoc position**
 <p>Planned to open in spring/summer 2024: Interdiciplinary communication and education in mathematical biology/oncology. Prospective applicants are welcome to <a href="https://sarahamis.github.io/contact/">contact me (Sara Hamis)</a> with questions about the position. </p>
 </div>
 
 
 # Closed positions (3)
 
-<div style="background-color: lightblue; border: 2px solid gray; border-radius: 8px; padding: 20px; margin: 20px;">
-### 20-03-2024: Postdoc position [applications closed, selection in progess]
+<div style="background-color: #e0f7fa; border: 2px solid gray; border-radius: 8px; padding: 20px; margin: 20px;">
+#### **20-03-2024: Postdoc position [applications closed, selection in progess]**
 <p>The group has an open postoc position in Bayesian inference for cell biology applications.</p>
 <p>
 We are looking for candidates with a background in mathematics/statistics/machine learning/similar and a keen interest in using mathematics and AI for applications in cancer research. 
@@ -30,8 +30,8 @@ We are looking for candidates with a background in mathematics/statistics/machin
 </p>
 </div>
 
-<div style="background-color: lightblue; border: 2px solid gray; border-radius: 8px; padding: 20px; margin: 20px;">
-### 19-02-2024: PhD positions [applications closed, selection in progess]
+<div style="background-color: #FDE8D7; border: 2px solid gray; border-radius: 8px; padding: 20px; margin: 20px;">
+#### **19-02-2024: PhD positions [applications closed, selection in progess]**
 <p>The group has 2 open PhD positions in Mathematical and Computational Oncology.</p>
 <p>
 We are looking for candidates with a background in physics, mathematics, statistics or a similar subject, and a keen interest in using AI and mathematics for applications in cancer research. 
