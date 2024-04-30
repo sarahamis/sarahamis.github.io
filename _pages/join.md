@@ -4,6 +4,8 @@ title: "Work with us"
 permalink: /join/
 author_profile: true
 ---
+
+Information about upcoming job openings and MSc projects are listed here.
   
 # MSc Projects
 MSc projects will be listed in summer 2024.
