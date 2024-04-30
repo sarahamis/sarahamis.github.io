@@ -7,10 +7,10 @@ author_profile: true
 
 Information about job openings and MSc projects are listed below.
   
-# MSc Projects
+## MSc Projects
 MSc projects will be listed in summer 2024.
 
-# Upcoming positions 
+## Upcoming positions 
 
 <div style="background-color: #e0f7fa; border: 2px solid gray; border-radius: 8px; padding: 20px; margin: 20px;">
 <strong> Postdoc in interdiciplinary communication and education in mathematical biology/oncology. </strong>
@@ -18,7 +18,7 @@ Prospective applicants are welcome to <a href="https://sarahamis.github.io/conta
 </div>
 
 
-# Positions with closed applications (3)
+## Positions with closed applications (3)
 
 <div style="background-color: #e0f7fa; border: 2px solid gray; border-radius: 8px; padding: 20px; margin: 20px;">
 <strong> 20-03-2024: Postdoc in Bayesian inference for cell biology applications.</strong> 
