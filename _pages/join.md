@@ -18,7 +18,7 @@ Prospective applicants are welcome to <a href="https://sarahamis.github.io/conta
 </div>
 
 
-# Filled positions/application closed (3)
+# Filled positions/applications closed (3)
 
 <div style="background-color: #e0f7fa; border: 2px solid gray; border-radius: 8px; padding: 20px; margin: 20px;">
 <strong> 20-03-2024: Postdoc in Bayesian inference for cell biology applications.</strong> 
