@@ -12,7 +12,7 @@ MSc projects will be listed in summer 2024.
 
 <div style="background-color: #e0f7fa; border: 2px solid gray; border-radius: 8px; padding: 20px; margin: 20px;">
 <strong> Postdoc position in interdiciplinary communication and education in mathematical biology/oncology. </strong>
-Prospective applicants are welcome to <a href="https://sarahamis.github.io/contact/">contact me (Sara Hamis)</a> with questions about the position.
+Prospective applicants are welcome to <a href="https://sarahamis.github.io/contact/">contact me (Sara Hamis)</a> with questions about the position. Applications are scheduled to open in spring/summer 2024. 
 </div>
 
 
