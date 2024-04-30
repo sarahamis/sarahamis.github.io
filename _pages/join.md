@@ -4,13 +4,13 @@ title: "Work with us"
 permalink: /join/
 author_profile: true
 ---
-# Open positions
+# Open positions (0)
 
-# Upcoming positions
+# Upcoming positions (1)
 ## Upcoming postdoc position
 <p>Planned to open in spring 2024: Interdiciplinary communication and education in mathematical biology/oncology. Prospective applicants are welcome to <a href="https://sarahamis.github.io/contact/">contact me (Sara Hamis)</a> with questions about the position. </p>
 
-# Closed positions
+# Closed positions (3)
 
 ## 20-03-2024: Postdoc position [applications closed, selection in progess]
 
