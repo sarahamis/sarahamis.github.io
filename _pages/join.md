@@ -1,17 +1,73 @@
 ---
-layout: page
+layout: archive
 title: "Work with us"
 permalink: /join/
+author_profile: true
 ---
-# Open positions (0)
 
-# Upcoming positions (1)
-## Upcoming postdoc position
+
+## Current Openings
+
+<table>
+<tr>
+<td valign="top" width="50%">
+  
+#### MSc Projects
+<div style="border: 2px solid #ddd; padding: 15px;">
+  
+Description of ongoing MSc projects available for application. Include details like project scope, skills required, and how to apply.
+
+</div>
+</td>
+<td valign="top" width="50%">
+
+#### Open PhD and Postdoc Positions
+<div style="border: 2px solid #ddd; padding: 15px;">
+  
+Description of currently available PhD and Postdoc positions. Include information on the research topics, required qualifications, and application process.
+
+</div>
+</td>
+</tr>
+<tr>
+<td valign="top" width="50%">
+
+#### Upcoming PhD and Postdoc Positions
+<div style="border: 2px solid #ddd; padding: 15px;">
+
+Information about PhD and Postdoc positions that will open in the near future. Include expected timelines and preliminary requirements if available.
+
+</div>
+</td>
+<td valign="top" width="50%">
+
+#### Closed PhD and Postdoc Positions
+<div style="border: 2px solid #ddd; padding: 15px;">
+
+Archive of PhD and Postdoc positions that are no longer accepting applications. Useful for reference and to gauge the types of positions typically offered.
+
+</div>
+</td>
+</tr>
+</table>
+
+
+
+
+
+# Open positions 
+
+
+# MSc Projects
+
+
+# Upcoming positions 
+### Upcoming postdoc position
 <p>Planned to open in spring 2024: Interdiciplinary communication and education in mathematical biology/oncology. Prospective applicants are welcome to <a href="https://sarahamis.github.io/contact/">contact me (Sara Hamis)</a> with questions about the position. </p>
 
 # Closed positions (3)
 
-## 20-03-2024: Postdoc position [applications closed, selection in progess]
+### 20-03-2024: Postdoc position [applications closed, selection in progess]
 
 <p>The group has an open postoc position in Bayesian inference for cell biology applications.</p>
 
@@ -39,7 +95,7 @@ Prospective applicants are welcome to <a href="https://sarahamis.github.io/conta
 </p>
 
 
-## 19-02-2024: PhD positions [applications closed, selection in progess]
+### 19-02-2024: PhD positions [applications closed, selection in progess]
 
 <p>The group has 2 open PhD positions in Mathematical and Computational Oncology.</p>
 
