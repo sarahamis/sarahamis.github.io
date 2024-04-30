@@ -4,133 +4,47 @@ title: "Work with us"
 permalink: /join/
 author_profile: true
 ---
-
-
-## Current Openings
-
-<table>
-<tr>
-<td valign="top" width="50%">
   
-#### MSc Projects
-<div style="border: 2px solid #ddd; padding: 15px;">
-  
-Description of ongoing MSc projects available for application. Include details like project scope, skills required, and how to apply.
-
-</div>
-</td>
-<td valign="top" width="50%">
-
-#### Open PhD and Postdoc Positions
-<div style="border: 2px solid #ddd; padding: 15px;">
-  
-Description of currently available PhD and Postdoc positions. Include information on the research topics, required qualifications, and application process.
-
-</div>
-</td>
-</tr>
-<tr>
-<td valign="top" width="50%">
-
-#### Upcoming PhD and Postdoc Positions
-<div style="border: 2px solid #ddd; padding: 15px;">
-
-Information about PhD and Postdoc positions that will open in the near future. Include expected timelines and preliminary requirements if available.
-
-</div>
-</td>
-<td valign="top" width="50%">
-
-#### Closed PhD and Postdoc Positions
-<div style="border: 2px solid #ddd; padding: 15px;">
-
-Archive of PhD and Postdoc positions that are no longer accepting applications. Useful for reference and to gauge the types of positions typically offered.
-
-</div>
-</td>
-</tr>
-</table>
-
-
-
-
-
-# Open positions 
-
-
 # MSc Projects
-
+MSc projects will be listed in summer 2024.
 
 # Upcoming positions 
+
+<div style="background-color: lightblue; border: 2px solid gray; border-radius: 8px; padding: 20px; margin: 20px;">
 ### Upcoming postdoc position
-<p>Planned to open in spring 2024: Interdiciplinary communication and education in mathematical biology/oncology. Prospective applicants are welcome to <a href="https://sarahamis.github.io/contact/">contact me (Sara Hamis)</a> with questions about the position. </p>
+<p>Planned to open in spring/summer 2024: Interdiciplinary communication and education in mathematical biology/oncology. Prospective applicants are welcome to <a href="https://sarahamis.github.io/contact/">contact me (Sara Hamis)</a> with questions about the position. </p>
+</div>
+
 
 # Closed positions (3)
 
+<div style="background-color: lightblue; border: 2px solid gray; border-radius: 8px; padding: 20px; margin: 20px;">
 ### 20-03-2024: Postdoc position [applications closed, selection in progess]
-
 <p>The group has an open postoc position in Bayesian inference for cell biology applications.</p>
-
 <p>
 We are looking for candidates with a background in mathematics/statistics/machine learning/similar and a keen interest in using mathematics and AI for applications in cancer research. 
 </p>
-
 <p>
 <b>Apply by</b>: April 29th, 2024.<br>
 <a href="https://www.jobb.uu.se/details/?positionId=709844">Link to project description and application</a>.    
 </p>
+</div>
 
-<p>
-<b>What we offer</b>: 
-  <ul>
-  <li>A supportive research environment.</li>
-  <li>Local and international multidisciplinary collaborations.</li>
-  <li>Competitive career progression opportunities. </li>
-  <li>2 years’ salary.</li>
-</ul>
-</p>
-
-<p>
-Prospective applicants are welcome to <a href="https://sarahamis.github.io/contact/">contact me (Sara Hamis)</a> with questions about the application or position. 
-</p>
-
-
+<div style="background-color: lightblue; border: 2px solid gray; border-radius: 8px; padding: 20px; margin: 20px;">
 ### 19-02-2024: PhD positions [applications closed, selection in progess]
-
 <p>The group has 2 open PhD positions in Mathematical and Computational Oncology.</p>
-
 <p>
 We are looking for candidates with a background in physics, mathematics, statistics or a similar subject, and a keen interest in using AI and mathematics for applications in cancer research. 
 </p>
-
 <p>
 <b>Position 1</b>: PhD student in Machine Learning with a focus on scientific computing for applications in cancer research.<br>
 <b>Apply by</b>: March 28, 2024 [applications closed, selection in progress].<br>
 <a href="https://www.jobb.uu.se/details/?positionId=701887">Link to project description and application</a>.    
 </p>
-
 <p>
 <b>Position 2</b>: PhD student in interdisciplinary mathematics with a focus on bio-medical modelling.<br>
 <b>Apply by</b>: March 22, 2024 [applications closed, selection in progress].<br>
 <a href="https://www.math.uu.se/digitalAssets/1078/c_1078262-l_3-k_7-hamis-engblom-sjogren-akerrenogren-integrating-mathematical-models-with-sparse-time-series-data-to.pdf"> Link to project description</a>. <a href="https://www.math.uu.se/the-department/vacant-positions/?positionId=702358"> Link to application</a>. Choose Project 7 in the list of projects.
 </p>
-
-<p>
-The applications to Position 1 and Position 2 are handled by separate electronic inboxes and selection committees. Applicants are therefore encouraged to apply to both positions. 
-</p>
-
-<p>
-<b>What we offer</b>: 
-  <ul>
-  <li>A supportive research environment.</li>
-  <li>Local and international multidisciplinary collaborations.</li>
-  <li>A competitive career progression program.</li>
-  <li>5 years’ salary.</li>
-</ul>
-</p>
-
-<p>
-Prospective applicants are encouraged to <a href="https://sarahamis.github.io/contact/">contact me (Sara Hamis)</a> with any questions about the applications or positions. 
-</p>
-
+</div>
 
