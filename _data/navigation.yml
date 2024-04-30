@@ -6,7 +6,10 @@ main:
 
   - title: "Group"
     url: /group/    
-    
+
+  - title: "Join"
+    url: /join/    
+  
   - title: "Media"
     url: /media/
         
