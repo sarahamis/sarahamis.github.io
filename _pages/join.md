@@ -1,8 +1,7 @@
 ---
-layout: archive
+layout: page
 title: "Work with us"
-permalink: /join/
-author_profile: true
+permalink: /join
 ---
 # Open positions (0)
 
