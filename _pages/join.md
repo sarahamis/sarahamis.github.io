@@ -39,7 +39,7 @@ predict disease dynamics?</i> We are looking for candidates with a background in
 <b>Apply by</b>: March 22, 2024.<br>
 </p>  
 <p>
-<a href="https://www.math.uu.se/digitalAssets/1078/c_1078262-l_3-k_7-hamis-engblom-sjogren-akerrenogren-integrating-mathematical-models-with-sparse-time-series-data-to.pdf"> Link to project description and application closed</a>. 
+<a href="https://www.math.uu.se/the-department/vacant-positions/?positionId=702358> Link to project description and application closed</a>. 
 </p>
 </div>
 
