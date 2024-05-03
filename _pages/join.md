@@ -47,7 +47,7 @@ predict disease dynamics?</i> We are looking for candidates with a background in
 <strong> 15-02-2024: PhD student in Machine Learning with a focus on scientific computing for applications in cancer research.</strong>
 <p> 
 <i>Would you like to use data-driven mathematical modelling to understand how cancer cells act and interact with each other?</i> 
-We are looking for candidates with a background in mathematics/statistics/machine learning/similar and a keen interest learning how to work with agent-based models, differential equation models and probabilistic parameter estimation techinques. <b>Apply by</b>: March 28, 2024.<br>
+We are looking for candidates with a background in mathematics/statistics/machine learning/similar and a keen interest in learning how to work with agent-based models, differential equation models and probabilistic parameter estimation techinques. <b>Apply by</b>: March 28, 2024.<br>
 </p> 
 <p>
 <a href="https://www.jobb.uu.se/details/?positionId=701887">Link to project description and application closed</a>.    
