@@ -36,6 +36,7 @@ Prospective applicants are welcome to <a href="https://sarahamis.github.io/conta
 <p> 
 <i>Would you like to integrate mathematical models with sparse time series data to
 predict disease dynamics?</i> We are looking for candidates with a background in mathematics/statistics/machine learning/similar and a keen interest in learning how to work with biomarker data, ordinary differential equations, Bayesian inference, and invertible neural networks.
+<b>Apply by</b>: March 22, 2024.<br>
 </p>  
 <p>
 <a href="https://www.math.uu.se/digitalAssets/1078/c_1078262-l_3-k_7-hamis-engblom-sjogren-akerrenogren-integrating-mathematical-models-with-sparse-time-series-data-to.pdf"> Link to project description and application closed</a>. 
