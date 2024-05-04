@@ -27,7 +27,7 @@ Prospective applicants are welcome to <a href="https://sarahamis.github.io/conta
 <i>Would you like to use cancer cell data, mathematical modelling and probabilistic programming to understand and predict cancer dynamics?</i> We are looking for candidates with a PhD in computational mathematics/statistics/similar and a keen interest in using Bayesian inference for cell biology applications. <b>Apply by</b>: April 29, 2024.<br>
 </p>  
 <p>  
-<a href="https://www.jobb.uu.se/details/?positionId=709844">Link to project description and application closed</a>. 
+<a href="https://www.jobb.uu.se/details/?positionId=709844">Link to project description and application [closed]</a>. 
 </p>
   
 </div>
@@ -39,7 +39,7 @@ predict disease dynamics?</i> We are looking for candidates with a background in
 <b>Apply by</b>: March 22, 2024.<br>
 </p>  
 <p>
-<a href="https://www.math.uu.se/the-department/vacant-positions/?positionId=702358"> Link to project description and application closed</a>. 
+<a href="https://www.math.uu.se/the-department/vacant-positions/?positionId=702358"> Link to project description and application [closed]</a>. 
 </p>
 </div>
 
@@ -50,7 +50,7 @@ predict disease dynamics?</i> We are looking for candidates with a background in
 We are looking for candidates with a background in mathematics/statistics/machine learning/similar and a keen interest in learning how to work with agent-based models, differential equation models and probabilistic parameter estimation techinques. <b>Apply by</b>: March 28, 2024.<br>
 </p> 
 <p>
-<a href="https://www.jobb.uu.se/details/?positionId=701887">Link to project description and application closed</a>.    
+<a href="https://www.jobb.uu.se/details/?positionId=701887">Link to project description and application [closed]</a>.    
 </p>
 </div>
 
