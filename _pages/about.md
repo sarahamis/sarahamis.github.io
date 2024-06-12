@@ -20,7 +20,7 @@ research group at Uppsala University.
 </p>
 
 <p>
-I previously worked as a researcher at the University of St Andrews (Scotland), Tampere University (Finland) and the University of Jyväskylä (Finland). Year 2020, I received a PhD in Mathematics from Swansea University (Wales). 
+I previously worked as a researcher at the University of St Andrews (Scotland), Tampere University (Finland) and the University of Jyväskylä (Finland). I hold a PhD in Mathematics from Swansea University (Wales; awarded 2020).
 </p>
 
 ### Working with me
