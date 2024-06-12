@@ -20,7 +20,7 @@ research group at Uppsala University.
 </p>
 
 <p>
-I previously worked as a researcher at the University of St Andrews (Scotland), Tampere University and the University of Jyväskylä (Finland), and Swansea University (Wales). 
+I previously worked as a researcher at the University of St Andrews (Scotland), Tampere University (Finland) and the University of Jyväskylä (Finland). Year 2020, I received a PhD in Mathematics from Swansea University (Wales). 
 </p>
 
 ### Working with me
@@ -37,11 +37,6 @@ if you're a researcher, prospective PhD student or a University student who is l
 
 <p>
 <span style="color: #cc0000;"><b>24-02-2024:</b></span> Media: A 3 question interview (in Swedish) about my research is live on the <a href="https://www.beijerstiftelsen.se/nyheter/3-fr%C3%A5gor-till-nya-beijerforskaren-sara-hamis">Beijer Foundation's website</a>.
-</p>
-
-
-<p>
-<span style="color: #cc0000;"><b>19-02-2024:</b></span> Open position in the AIMOn group: PhD student in interdisciplinary mathematics with a focus on bio-medical modelling <span style="color: #cc0000;"><i>[applications closed]</i></span>.
 </p>
 
 <p>
