@@ -13,7 +13,11 @@ MSc projects will be listed in summer 2024.
 ## Open positions (1)
 <div style="background-color: #e0f7fa; border: 2px solid gray; border-radius: 8px; padding: 20px; margin: 20px;">
 <strong> 12-06-2024: Postdoctoral researcher in multidisciplinary mathemaical oncology communication and/or education (Wenner-Gren Foundations Stipend).</strong> 
+
+  <p>
 <i>Would you like to analyse and improve multidiciplinary communication and/or education associated with mathematical cancer research?</i> We are looking for candidates with experience and interest in mathematical biology and/or mathematical oncology. Applicants should have a PhD in applied mathematics/theoretical biology/similar. Prospective applicants are welcome to <a href="https://sarahamis.github.io/contact/">contact me (Sara Hamis)</a> with questions about the position. 
+<b>Apply by</b>: July 15, 2024.<br>
+</p>
 
 <p>  
   
