@@ -33,6 +33,7 @@ MSc projects will be listed in summer 2024.
 <p>  
 <a href="https://www.jobb.uu.se/details/?positionId=709844">Link to project description and application [closed]</a>. 
 </p>
+</div>
 
 <div style="background-color: #FDE8D7; border: 2px solid gray; border-radius: 8px; padding: 20px; margin: 20px;">
 <strong> 15-02-2024: PhD student in Machine Learning with a focus on scientific computing for applications in cancer research.</strong>
