@@ -8,9 +8,9 @@ author_profile: true
 Information about job openings and MSc projects are listed below.
   
 ## MSc Projects
-MSc projects will be listed in summer 2024.
+MSc projects will be listed in summer 2024. 
 
-## Upcoming positions 
+## Upcoming positions (1)
 
 <div style="background-color: #e0f7fa; border: 2px solid gray; border-radius: 8px; padding: 20px; margin: 20px;">
 <strong> Postdoc in interdiciplinary communication and education in mathematical biology/oncology. </strong>  
@@ -19,7 +19,7 @@ Prospective applicants are welcome to <a href="https://sarahamis.github.io/conta
 </div>
 
 
-## Positions with closed applications (3)
+## Positions with closed applications (2)
 
 <div style="background-color: #e0f7fa; border: 2px solid gray; border-radius: 8px; padding: 20px; margin: 20px;">
 <strong> 20-03-2024: Postdoc in Bayesian inference for cell biology applications.</strong> 
@@ -29,19 +29,6 @@ Prospective applicants are welcome to <a href="https://sarahamis.github.io/conta
 <p>  
 <a href="https://www.jobb.uu.se/details/?positionId=709844">Link to project description and application [closed]</a>. 
 </p>
-  
-</div>
-<div style="background-color: #FDE8D7; border: 2px solid gray; border-radius: 8px; padding: 20px; margin: 20px;">
-<strong> 19-02-2024: PhD student in interdisciplinary mathematics with a focus on bio-medical modelling. </strong> 
-<p> 
-<i>Would you like to integrate mathematical models with sparse time series data to
-predict disease dynamics?</i> We are looking for candidates with a background in mathematics/statistics/machine learning/similar and a keen interest in learning how to work with biomarker data, ordinary differential equations, Bayesian inference, and invertible neural networks.
-<b>Apply by</b>: March 22, 2024.<br>
-</p>  
-<p>
-<a href="https://www.math.uu.se/the-department/vacant-positions/?positionId=702358"> Link to project description and application [closed]</a>. 
-</p>
-</div>
 
 <div style="background-color: #FDE8D7; border: 2px solid gray; border-radius: 8px; padding: 20px; margin: 20px;">
 <strong> 15-02-2024: PhD student in Machine Learning with a focus on scientific computing for applications in cancer research.</strong>
