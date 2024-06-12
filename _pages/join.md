@@ -16,11 +16,11 @@ MSc projects will be listed in summer 2024.
 <i>Would you like to analyse and improve multidiciplinary communication and/or education associated with mathematical cancer research?</i> We are looking for candidates with experience and interest in mathematical biology and/or mathematical oncology. Applicants should have a PhD in applied mathematics/theoretical biology/similar. Prospective applicants are welcome to <a href="https://sarahamis.github.io/contact/">contact me (Sara Hamis)</a> with questions about the position. 
 </div>
 
-[Link to the job description](WG_Postdoc_MathOnco_ComEdu_Uppsala.pdf)
+[Link to the job description att application instructions](WG_Postdoc_MathOnco_ComEdu_Uppsala.pdf)
 
+<a href="https://doit.medfarm.uu.se/bin/kurt3/kurt/8870872">Link to the application</a>.    
 
 ## Upcoming positions (0)
-
 
 
 ## Positions with closed applications (2)
