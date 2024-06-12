@@ -30,6 +30,11 @@ if you're a researcher, prospective PhD student or a University student who is l
 
 ## <span style="color: #cc0000;">*News*</span>
 
+
+<p>
+<span style="color: #cc0000;"><b>12-06-2024:</b></span> Open position in the AIMOn group: Postdoctoral researcher in mathemaical oncology communication and/or education. <a href="https://sarahamis.github.io/join/">Apply here by 15-07-2024</a>.
+</p>
+
 <p>
 <span style="color: #cc0000;"><b>20-03-2024:</b></span> Open position in the AIMOn group: Postdoctoral researcher in Bayesian inference for cell biology applications. Apply by 29-04-2024 <span style="color: #cc0000;"><i>[applications closed]</i></span>.
 </p>
