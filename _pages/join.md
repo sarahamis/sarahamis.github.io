@@ -22,6 +22,7 @@ MSc projects will be listed in summer 2024.
 <p>  
   
 [Link to the job description att application instructions](WG_Postdoc_MathOnco_ComEdu_Uppsala.pdf)
+
 </p>  
 
 <p> 
