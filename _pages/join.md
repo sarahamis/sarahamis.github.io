@@ -18,7 +18,7 @@ MSc projects will be listed in summer 2024.
 
 [Link to the job description att application instructions](WG_Postdoc_MathOnco_ComEdu_Uppsala.pdf)
 
-<a href="https://doit.medfarm.uu.se/bin/kurt3/kurt/8870872">Link to the application</a>.    
+<a href="https://doit.medfarm.uu.se/bin/kurt3/kurt/8870872">Link to the application form</a>  
 
 ## Upcoming positions (0)
 
