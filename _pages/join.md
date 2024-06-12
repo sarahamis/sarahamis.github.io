@@ -14,11 +14,16 @@ MSc projects will be listed in summer 2024.
 <div style="background-color: #e0f7fa; border: 2px solid gray; border-radius: 8px; padding: 20px; margin: 20px;">
 <strong> 12-06-2024: Postdoctoral researcher in multidisciplinary mathemaical oncology communication and/or education (Wenner-Gren Foundations Stipend)</strong> 
 <i>Would you like to analyse and improve multidiciplinary communication and/or education associated with mathematical cancer research?</i> We are looking for candidates with experience and interest in mathematical biology and/or mathematical oncology. Applicants should have a PhD in applied mathematics/theoretical biology/similar. Prospective applicants are welcome to <a href="https://sarahamis.github.io/contact/">contact me (Sara Hamis)</a> with questions about the position. 
+
+<p>  
+[Link to the job description att application instructions](WG_Postdoc_MathOnco_ComEdu_Uppsala.pdf)
+</p>  
+
+<p> 
+<a href="https://doit.medfarm.uu.se/bin/kurt3/kurt/8870872">Link to the application form</a>  
+</p>  
 </div>
 
-[Link to the job description att application instructions](WG_Postdoc_MathOnco_ComEdu_Uppsala.pdf)
-
-<a href="https://doit.medfarm.uu.se/bin/kurt3/kurt/8870872">Link to the application form</a>  
 
 ## Upcoming positions (0)
 
