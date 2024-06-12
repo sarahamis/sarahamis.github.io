@@ -10,13 +10,17 @@ Information about job openings and MSc projects are listed below.
 ## MSc Projects
 MSc projects will be listed in summer 2024. 
 
-## Upcoming positions (1)
-
+## Open positions (1)
 <div style="background-color: #e0f7fa; border: 2px solid gray; border-radius: 8px; padding: 20px; margin: 20px;">
-<strong> Postdoc in interdiciplinary communication and education in mathematical biology/oncology. </strong>  
-  <i>Would you like to analyse and improve multidiciplinary communication in data-driven life science research that includes mathematical modelling?</i> 
-Prospective applicants are welcome to <a href="https://sarahamis.github.io/contact/">contact me (Sara Hamis)</a> with questions about the position. Applications are scheduled to open in spring/summer 2024. 
+<strong> Postdoctoral researcher in multidisciplinary mathemaical oncology communication and/or education (Wenner-Gren Foundations Stipend)</strong> 
+<i>Would you like to analyse and improve multidiciplinary communication and/or education associated with mathematical cancer research?</i> We are looking for candidates with experience and interest in mathematical biology and/or mathematical oncology. Applicants should have a PhD in applied mathematics/theoretical biology/similar. Prospective applicants are welcome to <a href="https://sarahamis.github.io/contact/">contact me (Sara Hamis)</a> with questions about the position. 
 </div>
+
+[Link to the job description](WG_Postdoc_MathOnco_ComEdu_Uppsala.pdf)
+
+
+## Upcoming positions (0)
+
 
 
 ## Positions with closed applications (2)
