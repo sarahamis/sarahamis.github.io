@@ -16,6 +16,7 @@ MSc projects will be listed in summer 2024.
 
   <p>
 <i>Would you like to analyse and enhance multidiciplinary communication and/or education associated with mathematical cancer research?</i> We are looking for candidates with experience and interest in mathematical biology and/or mathematical oncology. Applicants should have a PhD in applied mathematics/theoretical biology/similar. Prospective applicants are welcome to <a href="https://sarahamis.github.io/contact/">contact me (Sara Hamis)</a> with questions about the position. 
+<b>Duration</b>: 2 years.
 <b>Apply by</b>: July 15, 2024.<br>
 </p>
 
@@ -34,7 +35,7 @@ MSc projects will be listed in summer 2024.
 <div style="background-color: #e0f7fa; border: 2px solid gray; border-radius: 8px; padding: 20px; margin: 20px;">
 <strong> 20-03-2024: Postdoc in Bayesian inference for cell biology applications.</strong> 
 <p>
-<i>Would you like to use cancer cell data, mathematical modelling and probabilistic programming to understand and predict cancer dynamics?</i> We are looking for candidates with a PhD in computational mathematics/statistics/similar and a keen interest in using Bayesian inference for cell biology applications. <b>Apply by</b>: April 29, 2024.<br>
+<i>Would you like to use cancer cell data, mathematical modelling and probabilistic programming to understand and predict cancer dynamics?</i> We are looking for candidates with a PhD in computational mathematics/statistics/similar and a keen interest in using Bayesian inference for cell biology applications. <b>Duration</b>: 2 years. <b>Apply by</b>: April 29, 2024.<br>
 </p>  
 <p>  
 <a href="https://www.jobb.uu.se/details/?positionId=709844">Link to project description and application [closed]</a>. 
@@ -45,7 +46,7 @@ MSc projects will be listed in summer 2024.
 <strong> 15-02-2024: PhD student in Machine Learning with a focus on scientific computing for applications in cancer research.</strong>
 <p> 
 <i>Would you like to use data-driven mathematical modelling to understand how cancer cells act and interact with each other?</i> 
-We are looking for candidates with a background in mathematics/statistics/machine learning/similar and a keen interest in learning how to work with agent-based models, differential equation models and probabilistic parameter estimation techinques. <b>Apply by</b>: March 28, 2024.<br>
+We are looking for candidates with a background in mathematics/statistics/machine learning/similar and a keen interest in learning how to work with agent-based models, differential equation models and probabilistic parameter estimation techinques. <b>Duration</b>: 5 years. <b>Apply by</b>: March 28, 2024.<br>
 </p> 
 <p>
 <a href="https://www.jobb.uu.se/details/?positionId=701887">Link to project description and application [closed]</a>.    
