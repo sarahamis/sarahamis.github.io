@@ -8,7 +8,7 @@ author_profile: true
 Information about job openings and MSc projects are listed below.
   
 ## MSc Projects
-MSc projects will be listed in summer 2024. 
+MSc projects will be listed in summer 2024. MSc students interested in mathematical and computational oncology are welcome to email me to discus projects.
 
 ## Open positions (0)
 
@@ -22,7 +22,7 @@ MSc projects will be listed in summer 2024.
 <strong> 12-06-2024: Postdoctoral researcher in multidisciplinary mathematical oncology communication and/or education.</strong> 
 <p>
 <i>Would you like to analyse and enhance multidiciplinary communication and/or education associated with mathematical cancer research?</i> We are looking for candidates with experience and interest in mathematical biology and/or mathematical oncology. Applicants should have a PhD in applied mathematics/theoretical biology/similar. 
-<b>Duration</b>: 2 years.<b>Apply by</b>: July 15, 2024. <br>
+<b>Duration</b>: 2 years. <b>Apply by</b>: July 15, 2024. <br>
 </p>  
 </div>
 
