@@ -32,20 +32,20 @@ if you're a researcher, prospective PhD student or a University student who is l
 
 
 <p>
-<span style="color: #cc0000;"><b>12-06-2024:</b></span> Open position in the AIMOn group: Postdoctoral researcher in mathematical oncology communication and/or education. Apply by 15-07-2024 <span style="color: #cc0000;"><i>[applications closed]</i></span>.
+<span style="color: #cc0000;"><b>2024-06-12:</b></span> Open position in the AIMOn group: Postdoctoral researcher in mathematical oncology communication and/or education <span style="color: #cc0000;"><i>[applications closed]</i></span>.
 </p>
 
 <p>
-<span style="color: #cc0000;"><b>20-03-2024:</b></span> Open position in the AIMOn group: Postdoctoral researcher in Bayesian inference for cell biology applications. Apply by 29-04-2024 <span style="color: #cc0000;"><i>[applications closed]</i></span>.
+<span style="color: #cc0000;"><b>2024-03-20:</b></span> Open position in the AIMOn group: Postdoctoral researcher in Bayesian inference for cell biology applications <span style="color: #cc0000;"><i>[applications closed]</i></span>.
 </p>
 
 
 <p>
-<span style="color: #cc0000;"><b>24-02-2024:</b></span> Media: A 3 question interview (in Swedish) about my research is live on the <a href="https://www.beijerstiftelsen.se/nyheter/3-fr%C3%A5gor-till-nya-beijerforskaren-sara-hamis">Beijer Foundation's website</a>.
+<span style="color: #cc0000;"><b>2024-02-24:</b></span> Media: A 3 question interview (in Swedish) about my research is live on the <a href="https://www.beijerstiftelsen.se/nyheter/3-fr%C3%A5gor-till-nya-beijerforskaren-sara-hamis">Beijer Foundation's website</a>.
 </p>
 
 <p>
-<span style="color: #cc0000;"><b>15-02-2024:</b></span> Open position in the AIMOn group: PhD student in Machine Learning with a focus on scientific computing for applications in cancer research <span style="color: #cc0000;"><i>[applications closed]</i></span>.
+<span style="color: #cc0000;"><b>2024-02-15:</b></span> Open position in the AIMOn group: PhD student in Machine Learning with a focus on scientific computing for applications in cancer research <span style="color: #cc0000;"><i>[applications closed]</i></span>.
 </p>
 
 
