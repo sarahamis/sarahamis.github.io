@@ -32,7 +32,7 @@ if you're a researcher, prospective PhD student or a University student who is l
 
 
 <p>
-<span style="color: #cc0000;"><b>12-06-2024:</b></span> Open position in the AIMOn group: Postdoctoral researcher in mathematical oncology communication and/or education. <a href="https://sarahamis.github.io/join/">Apply here by 15-07-2024</a>.
+<span style="color: #cc0000;"><b>12-06-2024:</b></span> Open position in the AIMOn group: Postdoctoral researcher in mathematical oncology communication and/or education. Apply by 15-07-2024 <span style="color: #cc0000;"><i>[applications closed]</i></span>.
 </p>
 
 <p>
