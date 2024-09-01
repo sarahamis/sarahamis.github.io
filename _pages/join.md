@@ -8,7 +8,7 @@ author_profile: true
 Information about job openings and MSc projects are listed below.
   
 ## MSc Projects
-MSc projects will be listed in summer 2024. MSc students interested in mathematical and computational oncology are welcome to email me to discuss projects.
+MSc projects will be listed in September/October 2024. MSc students interested in mathematical and computational oncology are welcome to email me to discuss projects. 
 
 ## Open positions (0)
 
