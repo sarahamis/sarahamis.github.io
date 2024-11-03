@@ -15,28 +15,22 @@ In the first half of 2025, I offer computational mathematics and machine learnin
 
 
 ## Upcoming positions (1)
-<i>Opening in November 2024: PhD student in machine learning with a focus on probabilistic methods for applications in microecology.</i>
+<i>Opening in November 2024: PhD student in machine learning with a focus on probabilistic methods for applications in microecology. <b>Duration</b>: 5 years.</i>
 
 ## Positions with closed applications (3)
 
 <div style="background-color: #e0f7fa; border: 2px solid gray; border-radius: 8px; padding: 20px; margin: 20px;">
 <strong> 2024-06-12: Postdoctoral researcher in multidisciplinary mathematical oncology communication and/or education.</strong> 
-<p>
-<b>Duration</b>: 2 years. <b>Apply by</b>: July 15, 2024. <br>
-</p>  
+<b>Duration</b>: 2 years. <b>Apply by</b>: July 15, 2024. <br> 
 </div>
 
 <div style="background-color: #e0f7fa; border: 2px solid gray; border-radius: 8px; padding: 20px; margin: 20px;">
 <strong> 2024-03-20: Postdoctoral researcher in Bayesian inference for cell biology applications.</strong> 
-<p>
 <b>Duration</b>: 2 years. <b>Apply by</b>: April 29, 2024.<br>
-</p>
 </div>
 
 <div style="background-color: #FDE8D7; border: 2px solid gray; border-radius: 8px; padding: 20px; margin: 20px;">
 <strong> 2024-02-15: PhD student in Machine Learning with a focus on scientific computing for applications in cancer research.</strong>
-<p> 
 <b>Duration</b>: 5 years. <b>Apply by</b>: March 28, 2024.<br>
-</p>
 </div>
 
