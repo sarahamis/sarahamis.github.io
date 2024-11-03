@@ -13,6 +13,6 @@ We are part of the Division of Systems and Control at the Department of Informat
 
 <p><a href="https://www.uu.se/en/contact-and-organisation/staff?query=N24-1712">Jodie Cochrane, postdoctoral researcher</a>. </p>
 
-
+<p><a href="https://www.uu.se/en/contact-and-organisation/staff?query=N24-337">Sara Hamis, assistant professor</a>. </p>
 
 
