@@ -8,7 +8,7 @@ author_profile: true
 Information about job openings and MSc projects are listed below.
   
 ## MSc Projects
-MSc projects are listed here: https://tinyurl.com/MscSysCon-GD. 
+MSc projects are listed here: <a href="https://tinyurl.com/MscSysCon-GD">https://tinyurl.com/MscSysCon-GD</a>. 
 In 2025, I offer computational mathematics and machine learning projects with applications in cancer research, ecology and chess ♘. 
 
 ## Open positions (0)
