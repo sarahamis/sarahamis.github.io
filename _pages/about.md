@@ -9,18 +9,18 @@ redirect_from:
 ---
 
 <p>
-I am an Assistant Professor in Machine Learning and a 
-<a href="https://www.swgc.org/">Wenner-Gren Fellow</a>  
-at the 
-<a href="https://beijerstiftelsen.se/en/partners/the-beijer-laboratory-ai-research">Beijer Artificial Intelligence Laboratory</a>. 
+I am an Assistant Professor in Machine Learning, a 
+<a href="https://www.swgc.org/">Wenner-Gren Fellow</a> and a  
+<a href="https://beijerstiftelsen.se/en/partners/the-beijer-laboratory-ai-research">Beijer Researcher</a> at 
+<a href="https://www.uu.se/en">Uppsala University</a>. 
 My research focuses on developing mathematical, statistical and computational methods to understand and predict cancer dynamics. 
 I am spearheading the 
 <a href="https://sarahamis.github.io/group/">Artificial Intelligence and Mathematics for Oncology (AIMOn)</a> 
-research group at Uppsala University. 
+research group. 
 </p>
 
 <p>
-I previously worked as a researcher at the University of St Andrews (Scotland), Tampere University (Finland) and the University of Jyväskylä (Finland). I hold a PhD in Mathematics from Swansea University (Wales) awarded year 2020.
+I previously worked as a postdoctoral researcher at the University of St Andrews (Scotland), Tampere University (Finland) and the University of Jyväskylä (Finland). I hold a PhD in Mathematics from Swansea University (Wales) awarded year 2020.
 </p>
 
 ### Working with me
