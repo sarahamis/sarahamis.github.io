@@ -44,7 +44,7 @@ if you're a researcher, prospective PhD student or a University student who is l
 
 
 <p>
-<span style="color: #cc0000;"><b>2024-02-24:</b></span> Media: A 3 question interview (in Swedish) about my research is live on the <a href="https://www.beijerstiftelsen.se/nyheter/3-fr%C3%A5gor-till-nya-beijerforskaren-sara-hamis">Beijer Foundation's website</a>.
+<span style="color: #cc0000;"><b>2024-02-24:</b></span> Media: A 3-question interview (in Swedish) about my research is live on the <a href="https://www.beijerstiftelsen.se/nyheter/3-fr%C3%A5gor-till-nya-beijerforskaren-sara-hamis">Beijer Foundation's website</a>.
 </p>
 
 <p>
