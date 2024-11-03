@@ -14,8 +14,8 @@ In 2025, I offer computational mathematics and machine learning projects with ap
 ## Open positions (0)
 
 
-## Upcoming positions (0)
-<i>Opening in November 2025: A PhD position in machine learning with a focus on probabilistic methods for applications in microecology.</i>
+## Upcoming positions (1)
+<i>Opening in November 2025: PhD student in machine learning with a focus on probabilistic methods for applications in microecology.</i>
 
 ## Positions with closed applications (3)
 
