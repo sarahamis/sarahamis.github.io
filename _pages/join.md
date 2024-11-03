@@ -9,13 +9,13 @@ Information about job openings and MSc projects are listed below.
   
 ## MSc Projects
 MSc projects are listed here: <a href="https://tinyurl.com/MscSysCon-GD">https://tinyurl.com/MscSysCon-GD</a>. 
-In 2025, I offer computational mathematics and machine learning projects with applications in cancer research, ecology and chess ♘. 
+In the first half of 2025, I offer computational mathematics and machine learning projects with applications in cancer research, ecology and chess ♘. 
 
 ## Open positions (0)
 
 
 ## Upcoming positions (1)
-<i>Opening in November 2025: PhD student in machine learning with a focus on probabilistic methods for applications in microecology.</i>
+<i>Opening in November 2024: PhD student in machine learning with a focus on probabilistic methods for applications in microecology.</i>
 
 ## Positions with closed applications (3)
 
