@@ -9,7 +9,7 @@ Information about job openings and MSc projects are listed below.
   
 ## MSc Projects
 MSc projects are listed here: https://tinyurl.com/MscSysCon-GD. 
-In 2025, I offer projects with applications in cancer, ecology and chess ♘. 
+In 2025, I offer computational mathematics and machine learning projects with applications in cancer research, ecology and chess ♘. 
 
 ## Open positions (0)
 
