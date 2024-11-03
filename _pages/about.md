@@ -31,7 +31,7 @@ if you're a researcher, prospective PhD student or a University student who is l
 ## <span style="color: #cc0000;">*News*</span>
 
 <p>
-<span style="color: #cc0000;"><b>2024-10-31:</b></span> Grant: I was awarded a Starting Grant from the <a href="https://www.vr.se/english.html">Swedish Research Council</a> (<a href="https://www.vr.se/english/applying-for-funding/decisions/2024-06-20-natural-and-engineering-sciences.html">Natural and engineering sciences 2024</a>). 
+<span style="color: #cc0000;"><b>2024-10-31:</b></span> Grant: I was awarded a Starting Grant from the <a href="https://www.vr.se/english.html">Swedish Research Council</a> (Natural and engineering sciences 2024). 
 </p>
 
 <p>
