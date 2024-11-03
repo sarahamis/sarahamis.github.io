@@ -5,11 +5,12 @@ permalink: /group/
 author_profile: true
 ---
 
-We are part of the Division for Systems and Control at the Department of Information Technology at Uppsala University, Sweden. 
+We are part of the Division of Systems and Control at the Department of Information Technology at Uppsala University, Sweden. 
 
 
-<p>PhD Student: Will be updtated soon. </p>
-<p>Postdoctoral researcher: Will be updtated soon. </p>
+<p><a href="https://www.uu.se/en/contact-and-organisation/staff?query=N24-1659">William Lavery, PhD Student</a>. </p>
+
+<p><a href="https://www.uu.se/en/contact-and-organisation/staff?query=N24-1712">Jodie Cochrane, postdoctoral researcher</a>. </p>
 
 
 
