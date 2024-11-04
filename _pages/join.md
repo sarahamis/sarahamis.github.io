@@ -20,7 +20,7 @@ In the first half of 2025, I offer computational mathematics and machine learnin
 ## Positions with closed applications (3)
 
 <div style="background-color: #e0f7fa; border: 2px solid gray; border-radius: 8px; padding: 20px; margin: 20px;">
-<strong> 2024-06-12: Postdoctoral researcher in multidisciplinary mathematical oncology communication.</strong> 
+<strong> 2024-06-12: Postdoctoral researcher in mathematical oncology communication.</strong> 
 <b>Duration</b>: 2 years. <b>Apply by</b>: July 15, 2024. <br> 
 </div>
 
