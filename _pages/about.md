@@ -35,7 +35,7 @@ if you're a researcher, prospective PhD student or a University student who is l
 </p>
 
 <p>
-<span style="color: #cc0000;"><b>2024-06-12:</b></span> Open position in the AIMOn group: Postdoctoral researcher in mathematical oncology communication and/or education <span style="color: #cc0000;"><i>[applications closed]</i></span>.
+<span style="color: #cc0000;"><b>2024-06-12:</b></span> Open position in the AIMOn group: Postdoctoral researcher in mathematical oncology communication<span style="color: #cc0000;"><i>[applications closed]</i></span>.
 </p>
 
 <p>
