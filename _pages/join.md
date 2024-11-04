@@ -15,7 +15,7 @@ In the first half of 2025, I offer computational mathematics and machine learnin
 
 
 ## Upcoming positions (1)
-<i>Opening in November 2024: PhD student in machine learning with a focus on probabilistic methods for applications in microecology. <b>Duration</b>: 5 years.</i>
+<i>Opening in November 2024: PhD student in machine learning with a focus on probabilistic methods for applications in microbial ecology. <b>Duration</b>: 5 years.</i>
 
 ## Positions with closed applications (3)
 
