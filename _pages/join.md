@@ -14,7 +14,7 @@ In the first half of 2025, the AIMOn group offers computational mathematics and 
 </div>
 
 ## Open positions (1)
-<div style="background-color: #af8dc3; border: 2px solid gray; border-radius: 8px; padding: 20px; margin: 20px;">
+<div style="background-color: #d3b8e0 ; border: 2px solid gray; border-radius: 8px; padding: 20px; margin: 20px;">
 <strong> 2024-03-20: PhD student in Machine Learning with a focus on probabilistic models in microbial and cellular ecology. </strong> 
 
 <b>Duration</b>: 5 years. 
@@ -30,7 +30,7 @@ In the first half of 2025, the AIMOn group offers computational mathematics and 
 
 ## Positions with closed applications (3)
 
-<div style="background-color: #7fbf7b; border: 2px solid gray; border-radius: 8px; padding: 20px; margin: 20px;">
+<div style="background-color:#a8dba7; border: 2px solid gray; border-radius: 8px; padding: 20px; margin: 20px;">
 <strong> 2024-06-12: Postdoctoral researcher in mathematical oncology communication.</strong> 
 <b>Duration</b>: 2 years. <b>Apply by</b>: July 15, 2024. <br> 
 </div>
