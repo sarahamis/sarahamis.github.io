@@ -14,7 +14,14 @@ In the first half of 2025, I offer computational mathematics and machine learnin
 ## Open positions (1)
 <div style="background-color: #e0f7fa; border: 2px solid gray; border-radius: 8px; padding: 20px; margin: 20px;">
 <strong> 2024-03-20: PhD student in Machine Learning with a focus on probabilistic models in microbial and cellular ecology. </strong> 
-<b>Duration</b>: 5 years. <b>Apply by</b>: December 31, 2024.<br> Link to application: <a href="https://uu.varbi.com/en/what:job/jobID:771410/">https://uu.varbi.com/en/what:job/jobID:771410/</a>
+  
+<b>Duration</b>: 5 years. 
+
+<b>Start date</b>: March - August 2025. 
+
+<b>Apply by</b>: December 31, 2024.<br>
+
+Link to application: <a href="https://uu.varbi.com/en/what:job/jobID:771410/">https://uu.varbi.com/en/what:job/jobID:771410/</a>
 </div>
 
 ## Upcoming positions (0)
