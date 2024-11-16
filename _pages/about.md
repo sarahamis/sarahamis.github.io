@@ -32,7 +32,7 @@ if you're a researcher, prospective PhD student or a University student who is l
 
 2024-03-20: P. 
 <p>
-<span style="color: #cc0000;"><b>2024-11-15:</b></span> Open position in the AIMOn group: PhD student in Machine Learning with a focus on probabilistic models in microbial and cellular ecology. <i>Applications close end of 2024</i></span>.
+<span style="color: #cc0000;"><b>2024-11-15:</b></span> Open position in the AIMOn group: PhD student in Machine Learning with a focus on probabilistic models in microbial and cellular ecology. <i>Applications close end of 2024</i>.
 </p>
 
 
