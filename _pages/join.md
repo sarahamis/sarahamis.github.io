@@ -11,11 +11,13 @@ Information about job openings and MSc projects are listed below.
 MSc projects are listed here: <a href="https://tinyurl.com/MscSysCon-GD">https://tinyurl.com/MscSysCon-GD</a>. 
 In the first half of 2025, I offer computational mathematics and machine learning projects with applications in cancer research, ecology and chess ♘. 
 
-## Open positions (0)
+## Open positions (1)
+<div style="background-color: #e0f7fa; border: 2px solid gray; border-radius: 8px; padding: 20px; margin: 20px;">
+<strong> 2024-03-20: PhD student in Machine Learning with a focus on probabilistic models in microbial and cellular ecology. </strong> 
+<b>Duration</b>: 5 years. <b>Apply by</b>: December 31, 2024.<br> Link to application: <a href="https://uu.varbi.com/en/what:job/jobID:771410/">https://uu.varbi.com/en/what:job/jobID:771410/</a>
+</div>
 
-
-## Upcoming positions (1)
-<i>Opening in November 2024: PhD student in machine learning with a focus on probabilistic models in microbial ecology. <b>Duration</b>: 5 years.</i>
+## Upcoming positions (0)
 
 ## Positions with closed applications (3)
 
