@@ -28,12 +28,12 @@ In the first half of 2025, the AIMOn group offers computational mathematics and 
 
 ## Positions with closed applications (3)
 
-<div style="background-color: #f5f7f5; border: 2px solid gray; border-radius: 8px; padding: 20px; margin: 20px;">
+<div style="background-color: #f5f5f5; border: 2px solid gray; border-radius: 8px; padding: 20px; margin: 20px;">
 <strong> 2024-06-12: Postdoctoral researcher in mathematical oncology communication.</strong> 
 <b>Duration</b>: 2 years. 
 </div>
 
-<div style="background-color: #f5f7f5; border: 2px solid gray; border-radius: 8px; padding: 20px; margin: 20px;">
+<div style="background-color: #f5f5f5; border: 2px solid gray; border-radius: 8px; padding: 20px; margin: 20px;">
 <strong> 2024-03-20: Postdoctoral researcher in Bayesian inference for cell biology applications.</strong> 
 <b>Duration</b>: 2 years. 
 </div>
