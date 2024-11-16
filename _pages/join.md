@@ -23,7 +23,7 @@ In the first half of 2025, the AIMOn group offers computational mathematics and 
 
 <b>Apply by</b>: 2024-12-31.<br>
 
-<b>Link to application</b>: <a href="https://uu.varbi.com/en/what:job/jobID:771410/">https://uu.varbi.com/en/what:job/jobID:771410/</a>
+<b>Link to application</b>: <a href="https://uu.varbi.com/en/what:job/jobID:771410/">https://uu.varbi.com/en/what:job/jobID:771410/</a>.
 </div>
 
 ## Upcoming positions (0)
