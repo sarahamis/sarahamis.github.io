@@ -26,8 +26,6 @@ In the first half of 2025, the AIMOn group offers computational mathematics and 
 <b>Link to application</b>: <a href="https://uu.varbi.com/en/what:job/jobID:771410/">https://uu.varbi.com/en/what:job/jobID:771410/</a>.
 </div>
 
-## Upcoming positions (0)
-
 ## Positions with closed applications (3)
 
 <div style="background-color: #e2e2e2; border: 2px solid gray; border-radius: 8px; padding: 20px; margin: 20px;">
