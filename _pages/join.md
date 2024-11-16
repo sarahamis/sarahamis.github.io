@@ -14,7 +14,7 @@ In the first half of 2025, the AIMOn group offers computational mathematics and 
 </div>
 
 ## Open positions (1)
-<div style="background-color: #B2BEB5 ; border: 2px solid gray; border-radius: 8px; padding: 20px; margin: 20px;">
+<div style="background-color: #ececec; ; border: 2px solid gray; border-radius: 8px; padding: 20px; margin: 20px;">
 <strong> 2024-03-20: PhD student in Machine Learning with a focus on probabilistic models in microbial and cellular ecology. </strong> 
 
 <b>Duration</b>: 5 years. 
@@ -30,17 +30,17 @@ In the first half of 2025, the AIMOn group offers computational mathematics and 
 
 ## Positions with closed applications (3)
 
-<div style="background-color:#FFFDD0; border: 2px solid gray; border-radius: 8px; padding: 20px; margin: 20px;">
+<div style="background-color: #dfdfdf; border: 2px solid gray; border-radius: 8px; padding: 20px; margin: 20px;">
 <strong> 2024-06-12: Postdoctoral researcher in mathematical oncology communication.</strong> 
 <b>Duration</b>: 2 years. <b>Apply by</b>: July 15, 2024. <br> 
 </div>
 
-<div style="background-color: #E5E4E2; border: 2px solid gray; border-radius: 8px; padding: 20px; margin: 20px;">
+<div style="background-color: #dfdfdf; border: 2px solid gray; border-radius: 8px; padding: 20px; margin: 20px;">
 <strong> 2024-03-20: Postdoctoral researcher in Bayesian inference for cell biology applications.</strong> 
 <b>Duration</b>: 2 years. <b>Apply by</b>: April 29, 2024.<br>
 </div>
 
-<div style="background-color: #B2BEB5; border: 2px solid gray; border-radius: 8px; padding: 20px; margin: 20px;">
+<div style="background-color: #ececec; border: 2px solid gray; border-radius: 8px; padding: 20px; margin: 20px;">
 <strong> 2024-02-15: PhD student in Machine Learning with a focus on scientific computing for applications in cancer research.</strong>
 <b>Duration</b>: 5 years. <b>Apply by</b>: March 28, 2024.<br>
 </div>
