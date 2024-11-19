@@ -39,7 +39,7 @@ if you're a researcher, prospective PhD student or a University student who is l
 </p>
 
 <p>
-<span style="color: #cc0000;"><b>2024-09-12:</b></span> MSc projects in the AIMOn group for 2025 are now live. Read more under <a href="https://sarahamis.github.io/join/">join</a>.
+<span style="color: #cc0000;"><b>2024-09-12:</b></span> MSc projects in the AIMOn group for 2025 are now live <span style="color: #cc0000;"><i> - applications closed</i></span>.
 </p>
 
 <p>
