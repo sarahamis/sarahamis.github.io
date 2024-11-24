@@ -56,6 +56,8 @@ alexa_site_verification  :
 yandex_site_verification :
 
 # Social Sharing
+name: Bluesky
+ url: &bluesky
 twitter:
   username               : &twitter
 facebook:
@@ -115,6 +117,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+  bluesky          : "hamiscalculated"
 
 
 # Reading Files
