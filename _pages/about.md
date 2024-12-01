@@ -31,6 +31,10 @@ if you're a researcher, prospective PhD student or a University student who is l
 ## <span style="color: #cc0000;">*News*</span>
 
 <p>
+<span style="color: #cc0000;"><b>2024-10-31:</b></span> Grant: I was awarded a <a href="https://www.swgc.org/postdoktorsstipendier-sverige">scholarship</a> from the Wenner-Gren foundations to fund a postdoctoral researcher in our group for 2 years.
+</p>
+  
+<p>
 <span style="color: #cc0000;"><b>2024-11-15:</b></span> Open position in the AIMOn group: PhD student in Machine Learning with a focus on probabilistic models in microbial and cellular ecology. Read more under <a href="https://sarahamis.github.io/join/">join</a>.
 </p>
 
