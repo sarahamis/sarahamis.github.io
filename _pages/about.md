@@ -31,7 +31,7 @@ if you're a researcher, prospective PhD student or a University student who is l
 ## <span style="color: #cc0000;">*News*</span>
 
 <p>
-<span style="color: #cc0000;"><b>2024-11-26:</b></span> Grant: I was awarded a <a href="https://www.swgc.org/postdoktorsstipendier-sverige">scholarship</a> from the Wenner-Gren foundations to fund a postdoctoral researcher for 2 years. 
+<span style="color: #cc0000;"><b>2024-11-26:</b></span> Grant: I was awarded a scholarship from the <a href="https://www.swgc.org/">Wenner-Gren foundations</a> to fund a postdoctoral researcher for 2 years. 
 </p>
   
 <p>
