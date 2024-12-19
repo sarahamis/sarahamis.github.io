@@ -12,10 +12,7 @@ I thank the funders who support my research.
 - I am supported by the Wenner-Gren Foundations (Wenner-Gren Siftelserna) through a Fellowship (since 2022) and a grant that funds a postdoc in my group (since 2024).
 - I am supported by the the Beijer Foundation (Kjell och Märta Beijers stiftelse) through my employment (since 2024).
 - I am supported by the Swedish Research Council (Vetenskapstådet) through a Starting Grant (since 2024).
-- I received the following travel grants in 2024:
-  -  Esseens, f matematik;
-  -  MATRIX-Simons Foundations;
-  -  Letterstedts resestip.
+- In 2024 I received travel grants from: Esseens, f matematik; the MATRIX-Simons Foundations; Letterstedts resestip.
   
 ### Selected previous funding
 
