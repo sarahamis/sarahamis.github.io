@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: page
 title: "Research funding"
 permalink: /funding/
 author_profile: true
