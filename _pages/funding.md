@@ -5,7 +5,7 @@ permalink: /funding/
 author_profile: true
 ---
 
-I thank the funders who have supported my research.
+I thank the funders who support my research.
 
 ### Current funding
 
