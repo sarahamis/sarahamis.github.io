@@ -20,4 +20,4 @@ I thank the funders who have supported my research.
 ### Selected previous funding
 
 - I had a Fellowship at the Tampere Institute for Advanced Study (2021-2023).
-- I had a Jyväskylä University Visiting Fellowship (2023).
+- I had a Jyväskylä University Visiting Fellowship (2021).
