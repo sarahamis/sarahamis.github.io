@@ -10,9 +10,9 @@ I thank the funders who support my research.
 ### Current funding
 
 My research is supported by 
-- the Wenner-Gren Foundations (Wenner-Gren Siftelserna) through a Fellowship and grant (since 2022),
-- the Beijer Foundation (Kjell och Märta Beijers stiftelse) through my employment (since 2024),
-- the Swedish Research Council (Vetenskapsrådet) through a Starting Grant (since 2024).
+- the Wenner-Gren Foundations (<a href="https://www.swgc.org/">Wenner-Gren stiftelserna</a>) through a Fellowship and grant (since 2022),
+- the Beijer Foundation (<a href="https://www.beijerstiftelsen.se">Kjell och Märta Beijers stiftelse</a>) through my employment (since 2024),
+- the Swedish Research Council (<a href="https://www.vr.se/english.html">Vetenskapsrådet</a>) through a Starting Grant (since 2024).
   
 In 2024 I received travel grants from: Esseens f matematik; the MATRIX-Simons Foundations; Letterstedts resestip.
   
