@@ -18,5 +18,5 @@ _In 2024 I received travel grants from: Esseens f matematik; the MATRIX-Simons F
   
 ### Selected previous funding 
 
-- I had a Fellowship at the <a href="https://research.tuni.fi/tampere-ias/">Tampere Institute for Advanced Study</a> (2021-2023).
+- I had a <a href="https://research.tuni.fi/tampere-ias/">Tampere Institute for Advanced Study</a> Fellowship (2021-2023).
 - I had a Jyväskylä University Visiting Fellowship (2021).
