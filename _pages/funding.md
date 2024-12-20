@@ -14,7 +14,7 @@ My research is supported by
 - the Beijer Foundation (<a href="https://www.beijerstiftelsen.se">Kjell och Märta Beijers stiftelse</a>) through my employment (since 2024),
 - the Swedish Research Council (<a href="https://www.vr.se/english.html">Vetenskapsrådet</a>) through a Starting Grant (since 2025).
   
-_In 2024 I received travel grants from: Esseens f matematik; the MATRIX-Simons Foundations; Letterstedts resestip._
+_In 2024 I received travel grants from: Esseens f matematik; the MATRIX-Simons Scheme; Letterstedts resestip._
   
 ### Selected previous funding 
 
