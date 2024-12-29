@@ -10,7 +10,7 @@ Information about job openings and MSc projects are listed below.
 
 ## Open positions (1)
 <div style="background-color: #f7f7f7; border: 2px solid gray; border-radius: 8px; padding: 20px; margin: 20px;">
-<strong> 2024-03-20: PhD student in Machine Learning with a focus on probabilistic models in microbial and cellular ecology. </strong> 
+<strong> 2024-11-15: PhD student in Machine Learning with a focus on probabilistic models in microbial and cellular ecology. </strong> 
 
 <b>Duration</b>: 5 years. 
 
