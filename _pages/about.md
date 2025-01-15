@@ -31,7 +31,7 @@ if you're a researcher, prospective PhD student or a University student who is l
 ## <span style="color: #cc0000;">*News*</span>
 
 <p>
-<span style="color: #cc0000;"><b>2024-12-19:</b></span> Grant: Our research network <a href="https://interbayes.github.io/">interBayes</a> was awarded 2 years funding from <a href="https://www.uu.se/centrum/circus">Circus</a>.
+<span style="color: #cc0000;"><b>2024-12-19:</b></span> Grant: Our Uppsala University network <a href="https://interbayes.github.io/">interBayes</a> on Bayesian inference for interdisciplinary research was awarded 2 years' funding from <a href="https://www.uu.se/centrum/circus">Circus</a>.
 </p>
 
 
