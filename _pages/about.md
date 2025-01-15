@@ -31,6 +31,11 @@ if you're a researcher, prospective PhD student or a University student who is l
 ## <span style="color: #cc0000;">*News*</span>
 
 <p>
+<span style="color: #cc0000;"><b>2024-12-19:</b></span> Grant: Our research network <a href="https://interbayes.github.io/">interBayes</a> was awarded 2 years funding from <a href="https://www.uu.se/centrum/circus">Circus</a>.
+</p>
+
+
+<p>
 <span style="color: #cc0000;"><b>2024-11-26:</b></span> Grant: I was awarded a scholarship from the <a href="https://www.swgc.org/">Wenner-Gren foundations</a> to fund a postdoctoral researcher for 2 years. 
 </p>
   
@@ -52,11 +57,6 @@ if you're a researcher, prospective PhD student or a University student who is l
 
 <p>
 <span style="color: #cc0000;"><b>2024-03-20:</b></span> Open position in the AIMOn group: Postdoctoral researcher in Bayesian inference for cell biology applications <span style="color: #cc0000;"><i> - applications closed</i></span>.
-</p>
-
-
-<p>
-<span style="color: #cc0000;"><b>2024-02-24:</b></span> Media: A 3-question interview (in Swedish) about my research is live on the <a href="https://www.beijerstiftelsen.se/nyheter/3-fr%C3%A5gor-till-nya-beijerforskaren-sara-hamis">Beijer Foundation's website</a>.
 </p>
 
 <p>
