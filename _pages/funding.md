@@ -14,9 +14,9 @@ My research is supported by
 - the Beijer Foundation (<a href="https://www.beijerstiftelsen.se">Kjell och Märta Beijers stiftelse</a>) through my employment (since 2024),
 - the Swedish Research Council (<a href="https://www.vr.se/english.html">Vetenskapsrådet</a>) through a Starting Grant (since 2025).
 
-My work for <a href="https://interbayes.github.io/">interBayes/a> is supported by <a href="https://www.uu.se/en/centre/circus">Circus/a> (since 2025).
+My work for <a href="https://interbayes.github.io/">interBayes</a> is supported by <a href="https://www.uu.se/en/centre/circus">Circus</a> (since 2025).
   
 ### Selected previous funding 
-- In 2024 I received travel grants from: Esseens f matematik; the MATRIX-Simons Scheme; Letterstedts resestip.
+- In 2024, I received travel grants from: Esseens f matematik; the MATRIX-Simons Scheme; Letterstedts resestip.
 - I had a <a href="https://research.tuni.fi/tampere-ias/">Tampere Institute for Advanced Study</a> Fellowship (2021-2023).
 - I had a Jyväskylä University Visiting Fellowship (2021).
