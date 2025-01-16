@@ -33,7 +33,7 @@ Information about job openings and MSc projects are listed below.
 <b>Duration</b>: 5 years. 
 </div>
 
-## MSc Projects (closed)
+## MSc projects (closed)
 <div style="background-color: #f9f9f9; border: 2px solid gray; border-radius: 8px; padding: 20px; margin: 20px;">
 <strong>2024-09-12:</strong>   In the first half of 2025, the AIMOn group offers computational mathematics and machine learning projects with applications in cancer research, ecology and chess ♘. <br> 
 </div>
