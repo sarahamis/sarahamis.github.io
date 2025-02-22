@@ -31,9 +31,12 @@ if you're a researcher, prospective PhD student or a University student who is l
 ## <span style="color: #cc0000;">*News*</span>
 
 <p>
-<span style="color: #cc0000;"><b>2024-11-29:</b></span> Grant: Our Uppsala University network <a href="https://interbayes.github.io/">interBayes</a> on Bayesian inference for interdisciplinary research was awarded 2 years' funding from <a href="https://www.uu.se/centrum/circus">Circus</a>.
+<span style="color: #cc0000;"><b>2025-02-22:</b></span> Opportunity to do a PhD in the AIMOn group: PhD student in interdisciplinary mathematics with a focus on Bayesian pharmacometrics for rare and heterogeneous diseases. <span style="color: #cc0000;"> Read more under join <a href="https://sarahamis.github.io/join/">join</a>.</span>.
 </p>
 
+<p>
+<span style="color: #cc0000;"><b>2024-11-29:</b></span> Grant: Our Uppsala University network <a href="https://interbayes.github.io/">interBayes</a> on Bayesian inference for interdisciplinary research was awarded 2 years' funding from <a href="https://www.uu.se/centrum/circus">Circus</a>.
+</p>
 
 <p>
 <span style="color: #cc0000;"><b>2024-11-26:</b></span> Grant: I was awarded a scholarship from the <a href="https://www.swgc.org/">Wenner-Gren foundations</a> to fund a postdoctoral researcher for 2 years. 
