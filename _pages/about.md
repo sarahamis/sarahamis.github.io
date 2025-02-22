@@ -43,7 +43,7 @@ if you're a researcher, prospective PhD student or a University student who is l
 </p>
   
 <p>
-<span style="color: #cc0000;"><b>2024-11-15:</b></span> Open position in the AIMOn group: PhD student in Machine Learning with a focus on probabilistic models in microbial and cellular ecology <span style="color: #cc0000;"><i> - applications closed</i></span>.
+<span style="color: #cc0000;"><b>2024-11-15:</b></span> Open position in the AIMOn group: PhD student in Machine Learning with a focus on probabilistic models in microbial and cellular ecology [closed].
 </p>
 
 <p>
@@ -51,19 +51,19 @@ if you're a researcher, prospective PhD student or a University student who is l
 </p>
 
 <p>
-<span style="color: #cc0000;"><b>2024-09-12:</b></span> MSc projects in the AIMOn group for 2025 are now live <span style="color: #cc0000;"><i> - applications closed</i></span>.
+<span style="color: #cc0000;"><b>2024-09-12:</b></span> MSc projects in the AIMOn group for 2025 are now live [closed].
 </p>
 
 <p>
-<span style="color: #cc0000;"><b>2024-06-12:</b></span> Open position in the AIMOn group: Postdoctoral researcher in mathematical oncology communication <span style="color: #cc0000;"><i> - applications closed</i></span>.
+<span style="color: #cc0000;"><b>2024-06-12:</b></span> Open position in the AIMOn group: Postdoctoral researcher in mathematical oncology communication [closed].
 </p>
 
 <p>
-<span style="color: #cc0000;"><b>2024-03-20:</b></span> Open position in the AIMOn group: Postdoctoral researcher in Bayesian inference for cell biology applications <span style="color: #cc0000;"><i> - applications closed</i></span>.
+<span style="color: #cc0000;"><b>2024-03-20:</b></span> Open position in the AIMOn group: Postdoctoral researcher in Bayesian inference for cell biology applications [closed].
 </p>
 
 <p>
-<span style="color: #cc0000;"><b>2024-02-15:</b></span> Open position in the AIMOn group: PhD student in Machine Learning with a focus on scientific computing for applications in cancer research <span style="color: #cc0000;"><i> - applications closed</i></span>.
+<span style="color: #cc0000;"><b>2024-02-15:</b></span> Open position in the AIMOn group: PhD student in Machine Learning with a focus on scientific computing for applications in cancer research [closed].
 </p>
 
 
