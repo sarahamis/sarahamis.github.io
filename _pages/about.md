@@ -31,7 +31,7 @@ if you're a researcher, prospective PhD student or a University student who is l
 ## <span style="color: #cc0000;">*News*</span>
 
 <p>
-<span style="color: #cc0000;"><b>2025-02-22:</b></span> Opportunity to do a PhD in the AIMOn group. <span style="color: #cc0000;"><i> PhD student in interdisciplinary mathematics with a focus on Bayesian pharmacometrics for rare and heterogeneous diseases. </i></span>Read more under <a href="https://sarahamis.github.io/join/">join</a>.
+<span style="color: #cc0000;"><b>2025-02-22:</b></span> Opportunity to do a PhD in the AIMOn group. <span style="color: #cc0000;"><i> PhD student in interdisciplinary mathematics. Focus: Bayesian pharmacometrics for rare and heterogeneous diseases. </i></span>Read more under <a href="https://sarahamis.github.io/join/">join</a>.
 </p>
 
 <p>
