@@ -66,6 +66,10 @@ if you're a researcher, prospective PhD student or a University student who is l
 <span style="color: #cc0000;"><b>2024-02-15:</b></span> Open position in the AIMOn group: PhD student in Machine Learning with a focus on scientific computing for applications in cancer research [closed].
 </p>
 
+<p>
+<span style="color: #cc0000;"><b>2024-02-01:</b></span> I join Uppsala University as an assistant professor in machine learning.
+</p>
+
 
 
  
