@@ -10,9 +10,9 @@ Information about job openings and MSc projects are listed below.
 ## Open positions (1)
 
 <div style="background-color: #f7f7f7; border: 2px solid gray; border-radius: 8px; padding: 20px; margin: 20px;">
-<strong> 2025-02-22: PhD student in interdisciplinary mathematics with a focus on Bayesian pharmacometrics for rare and heterogeneous diseases .</strong>
-<b>Duration</b>: 5 years. 
-<b>Application</b>: Apply via <a href="https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=799399">this link</a> and select project number 5. 
+<strong> 2025-02-22: PhD student in interdisciplinary mathematics with a focus on Bayesian pharmacometrics for rare and heterogeneous diseases.</strong><br>
+<b>Duration</b>: 5 years.<br>
+<b>Application</b>: Apply via <a href="https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=799399">this link</a> and select project number 5.<br> 
 <b>Contact</b>: Prospective applicants are welcome to contact me with questions about the application and project.
 </div>
 
