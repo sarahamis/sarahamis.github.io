@@ -5,7 +5,7 @@ permalink: /join/
 author_profile: true
 ---
 
-Information about job openings and MSc projects are listed below.
+Information about job openings and MSc/BSc projects are listed below.
   
 ## Open positions (1)
 
@@ -14,6 +14,11 @@ Information about job openings and MSc projects are listed below.
 <b>Duration</b>: 5 years.<br>
 <b>Application</b>: Apply via <a href="https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=799399">this link</a> and select project number 5.<br> 
 <b>Contact</b>: Prospective applicants are welcome to contact me with questions about the application and project.
+</div>
+
+## BSc projects spring 2025
+<div style="background-color: #f7f7f7; border: 2px solid gray; border-radius: 8px; padding: 20px; margin: 20px;">
+<strong>2024-09-12:</strong> In the fourth Uppsala University period in 2026, the AIMOn group offers BSc projects in applied mathematics and machine learning (contact me if you're interested in doing a project in our group). <br> 
 </div>
 
 ## Closed applications, interview stage (0)
