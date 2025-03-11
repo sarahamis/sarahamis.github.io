@@ -16,11 +16,6 @@ Information about job openings and MSc/BSc projects are listed below.
 <b>Contact</b>: Prospective applicants are welcome to contact me with questions about the application and project.
 </div>
 
-## BSc projects spring 2025
-<div style="background-color: #f7f7f7; border: 2px solid gray; border-radius: 8px; padding: 20px; margin: 20px;">
-<strong>2025-02-28:</strong> In the fourth Uppsala University period of 2024/2025, the AIMOn group offers BSc projects in applied mathematics and machine learning. Contact me if you're interested in doing a project in our group. <br> 
-</div>
-
 ## Closed applications, interview stage (0)
 
 
