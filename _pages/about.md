@@ -31,27 +31,27 @@ if you're a researcher, prospective PhD student or a University student who is l
 ## <span style="color: #cc0000;">*News*</span>
 
 <p>
-<span style="color: #cc0000;"><b>2025-03-26:</b></span> Grant: We got a Wallenberg AI, Autonomous Systems and Software Program (<a href="https://www.uu.se/centrum/circus">WASP</a>) grant to fund an academic PhD project. Team: myself and <a href="https://research.chalmers.se/en/person/eszterl">Eszter Lakatos</a>. 
+<span style="color: ##ff6600;"><b>2025-03-26 Grant:</b></span> We got a Wallenberg AI, Autonomous Systems and Software Program (<a href="https://www.uu.se/centrum/circus">WASP</a>) grant to fund an academic PhD project. Team: myself and <a href="https://research.chalmers.se/en/person/eszterl">Eszter Lakatos</a>. 
 </p>
 
 <p>
-<span style="color: #cc0000;"><b>2025-02-22:</b></span> Opportunity to do a PhD in the AIMOn group. <span style="color: #cc0000;"><i> PhD student in interdisciplinary mathematics. Focus: Bayesian pharmacometrics for rare and heterogeneous diseases. </i></span>Read more under <a href="https://sarahamis.github.io/join/">join</a>.
+<span style="color: #800080;"><b>2025-02-22 Job: </b></span> Opportunity to do a PhD in the AIMOn group. <span style="color: #cc0000;"><i> PhD student in interdisciplinary mathematics. Focus: Bayesian pharmacometrics for rare and heterogeneous diseases. </i></span>Read more under <a href="https://sarahamis.github.io/join/">join</a>.
 </p>
 
 <p>
-<span style="color: #cc0000;"><b>2024-11-29:</b></span> Grant: Our Uppsala University network <a href="https://interbayes.github.io/">interBayes</a> on Bayesian inference for interdisciplinary research was awarded 2 years' funding from <a href="https://www.uu.se/centrum/circus">Circus</a>.
+<span style="color: #ff6600;"><b>2024-11-29 Grant:</b></span>  Our Uppsala University network <a href="https://interbayes.github.io/">interBayes</a> on Bayesian inference for interdisciplinary research was awarded 2 years' funding from <a href="https://www.uu.se/centrum/circus">Circus</a>.
 </p>
 
 <p>
-<span style="color: #cc0000;"><b>2024-11-26:</b></span> Grant: I was awarded a scholarship from the <a href="https://www.swgc.org/">Wenner-Gren foundations</a> to fund a postdoctoral researcher for 2 years. 
+<span style="color: #ff6600;"><b>2024-11-26 Grant:</b></span>  I was awarded a scholarship from the <a href="https://www.swgc.org/">Wenner-Gren foundations</a> to fund a postdoctoral researcher for 2 years. 
 </p>
   
 <p>
-<span style="color: #cc0000;"><b>2024-11-15:</b></span> Open position in the AIMOn group: PhD student in Machine Learning with a focus on probabilistic models in microbial and cellular ecology [closed].
+<span style="color: #800080;"><b>2024-11-15 Job: </b></span> Open position in the AIMOn group, PhD student in Machine Learning with a focus on probabilistic models in microbial and cellular ecology [closed].
 </p>
 
 <p>
-<span style="color: #cc0000;"><b>2024-10-31:</b></span> Grant: I was awarded a Starting Grant from the <a href="https://www.vr.se/english.html">Swedish Research Council</a> (Natural and engineering sciences 2024). 
+<span style="color: #ff6600;"><b>2024-10-31 Grant:</b></span> I was awarded a Starting Grant from the <a href="https://www.vr.se/english.html">Swedish Research Council</a> (Natural and engineering sciences 2024). 
 </p>
 
 <p>
@@ -59,15 +59,15 @@ if you're a researcher, prospective PhD student or a University student who is l
 </p>
 
 <p>
-<span style="color: #cc0000;"><b>2024-06-12:</b></span> Open position in the AIMOn group: Postdoctoral researcher in mathematical oncology communication [closed].
+<span style="color: #cc0000;"><b>2024-06-12 Job:</b></span> Open position in the AIMOn group, Postdoctoral researcher in mathematical oncology communication [closed].
 </p>
 
 <p>
-<span style="color: #cc0000;"><b>2024-03-20:</b></span> Open position in the AIMOn group: Postdoctoral researcher in Bayesian inference for cell biology applications [closed].
+<span style="color: #800080;"><b>2024-03-20 Job:</b></span> Open position in the AIMOn group, Postdoctoral researcher in Bayesian inference for cell biology applications [closed].
 </p>
 
 <p>
-<span style="color: #cc0000;"><b>2024-02-15:</b></span> Open position in the AIMOn group: PhD student in Machine Learning with a focus on scientific computing for applications in cancer research [closed].
+<span style="color: #800080"><b>2024-02-15 Job:</b></span> Open position in the AIMOn group, PhD student in Machine Learning with a focus on scientific computing for applications in cancer research [closed].
 </p>
 
 <p>
