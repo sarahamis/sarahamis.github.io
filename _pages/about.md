@@ -71,7 +71,7 @@ if you're a researcher, prospective PhD student or a University student who is l
 </p>
 
 <p>
-<span style="color: #008000;"><b>2024-02-01 Other:</b></span> I join Uppsala University as an assistant professor in machine learning.
+<span style="color: #008000;"><b>2024-02-01 Other:</b></span> I joined Uppsala University as an assistant professor in machine learning.
 </p>
 
 
