@@ -67,7 +67,7 @@ if you're a researcher, prospective PhD student or a University student who is l
 </p>
 
 <p>
-<span style="color: #800080"><b>2024-02-15 Job:</b></span> Open position in the AIMOn group, <i>PhD student in Machine Learning with a focus on scientific computing for applications in cancer research_ [closed].
+<span style="color: #800080"><b>2024-02-15 Job:</b></span> Open position in the AIMOn group, <i>PhD student in Machine Learning with a focus on scientific computing for applications in cancer research</i>  [closed].
 </p>
 
 <p>
