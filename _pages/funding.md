@@ -13,7 +13,7 @@ My research is supported by
 - the Wenner-Gren Foundations (<a href="https://www.swgc.org/">Wenner-Gren stiftelserna</a>) through a Fellowship and recruitment grant (since 2022),
 - the Beijer Foundation (<a href="https://www.beijerstiftelsen.se">Kjell och Märta Beijers stiftelse</a>) funding my assistant professorship and recruitments (since 2024),
 - the Swedish Research Council (<a href="https://www.vr.se/english.html">Vetenskapsrådet</a>) through a Starting Grant (since 2025),
-- Wallenberg AI, Autonomous Systems and Software Program (<a href="https://wasp-sweden.org/">WASP</a>) through a PhD project grant (since 2025).
+- the Wallenberg AI, Autonomous Systems and Software Program (<a href="https://wasp-sweden.org/">WASP</a>) through a PhD project grant (since 2025).
 
 My work for <a href="https://interbayes.github.io/">interBayes</a> is supported by <a href="https://www.uu.se/en/centre/circus">Circus</a> (since 2025).
   
