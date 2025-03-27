@@ -28,14 +28,14 @@ I previously worked as a postdoctoral researcher at the University of St Andrews
 <a href="https://sarahamis.github.io/contact/">Contact me</a> 
 if you're a researcher, prospective PhD student or a University student who is looking for an opportunity to collaborate on a mathematical and computational oncology project. 
 
-## <span style="color: #cc0000;">*News*</span>
+## *News*
 
 <p>
-<span style="color: ##ff6600;"><b>2025-03-26 Grant:</b></span> We got a Wallenberg AI, Autonomous Systems and Software Program (<a href="https://www.uu.se/centrum/circus">WASP</a>) grant to fund an academic PhD project. Team: myself and <a href="https://research.chalmers.se/en/person/eszterl">Eszter Lakatos</a>. 
+<span style="color: #ff6600;"><b>2025-03-26 Grant:</b></span>  We got a Wallenberg AI, Autonomous Systems and Software Program (<a href="https://www.uu.se/centrum/circus">WASP</a>) grant to fund an academic PhD project. Team: myself and <a href="https://research.chalmers.se/en/person/eszterl">Eszter Lakatos</a>. 
 </p>
 
 <p>
-<span style="color: #800080;"><b>2025-02-22 Job: </b></span> Opportunity to do a PhD in the AIMOn group. <span style="color: #cc0000;"><i> PhD student in interdisciplinary mathematics. Focus: <i> Bayesian pharmacometrics for rare and heterogeneous diseases</i>  </i></span>Read more under <a href="https://sarahamis.github.io/join/">join</a>.
+<span style="color: #800080;"><b>2025-02-22 Job: </b></span> Opportunity to do a PhD in the AIMOn group. <span style="color: #800080;"><i> PhD student in interdisciplinary mathematics. Focus: <i> Bayesian pharmacometrics for rare and heterogeneous diseases</i>  </i></span>Read more under <a href="https://sarahamis.github.io/join/">join</a>.
 </p>
 
 <p>
@@ -59,7 +59,7 @@ if you're a researcher, prospective PhD student or a University student who is l
 </p>
 
 <p>
-<span style="color: #cc0000;"><b>2024-06-12 Job:</b></span> Open position in the AIMOn group, <i>Postdoctoral researcher in mathematical oncology communication</i>  [closed].
+<span style="color: #800080;"><b>2024-06-12 Job:</b></span> Open position in the AIMOn group, <i>Postdoctoral researcher in mathematical oncology communication</i>  [closed].
 </p>
 
 <p>
