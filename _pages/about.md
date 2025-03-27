@@ -35,7 +35,7 @@ if you're a researcher, prospective PhD student or a University student who is l
 </p>
 
 <p>
-<span style="color: #800080;"><b>2025-02-22 Job: </b></span> Opportunity to do a PhD in the AIMOn group. <span style="color: #cc0000;"><i> PhD student in interdisciplinary mathematics. Focus: Bayesian pharmacometrics for rare and heterogeneous diseases. </i></span>Read more under <a href="https://sarahamis.github.io/join/">join</a>.
+<span style="color: #800080;"><b>2025-02-22 Job: </b></span> Opportunity to do a PhD in the AIMOn group. <span style="color: #cc0000;"><i> PhD student in interdisciplinary mathematics. Focus: _Bayesian pharmacometrics for rare and heterogeneous diseases_. </i></span>Read more under <a href="https://sarahamis.github.io/join/">join</a>.
 </p>
 
 <p>
@@ -47,7 +47,7 @@ if you're a researcher, prospective PhD student or a University student who is l
 </p>
   
 <p>
-<span style="color: #800080;"><b>2024-11-15 Job: </b></span> Open position in the AIMOn group, PhD student in Machine Learning with a focus on probabilistic models in microbial and cellular ecology [closed].
+<span style="color: #800080;"><b>2024-11-15 Job: </b></span> Open position in the AIMOn group, _PhD student in Machine Learning with a focus on probabilistic models in microbial and cellular ecology_ [closed].
 </p>
 
 <p>
@@ -55,23 +55,23 @@ if you're a researcher, prospective PhD student or a University student who is l
 </p>
 
 <p>
-<span style="color: #cc0000;"><b>2024-09-12:</b></span> MSc projects in the AIMOn group for 2025 are now live [closed].
+<span style="color: #008000;"><b>2024-09-12 Other:</b></span> MSc projects in the AIMOn group for 2025 are now live [closed].
 </p>
 
 <p>
-<span style="color: #cc0000;"><b>2024-06-12 Job:</b></span> Open position in the AIMOn group, Postdoctoral researcher in mathematical oncology communication [closed].
+<span style="color: #cc0000;"><b>2024-06-12 Job:</b></span> Open position in the AIMOn group, _Postdoctoral researcher in mathematical oncology communication_ [closed].
 </p>
 
 <p>
-<span style="color: #800080;"><b>2024-03-20 Job:</b></span> Open position in the AIMOn group, Postdoctoral researcher in Bayesian inference for cell biology applications [closed].
+<span style="color: #800080;"><b>2024-03-20 Job:</b></span> Open position in the AIMOn group, _Postdoctoral researcher in Bayesian inference for cell biology applications_ [closed].
 </p>
 
 <p>
-<span style="color: #800080"><b>2024-02-15 Job:</b></span> Open position in the AIMOn group, PhD student in Machine Learning with a focus on scientific computing for applications in cancer research [closed].
+<span style="color: #800080"><b>2024-02-15 Job:</b></span> Open position in the AIMOn group, _PhD student in Machine Learning with a focus on scientific computing for applications in cancer research_ [closed].
 </p>
 
 <p>
-<span style="color: #cc0000;"><b>2024-02-01:</b></span> I join Uppsala University as an assistant professor in machine learning.
+<span style="color: #008000;"><b>2024-02-01 Other:</b></span> I join Uppsala University as an assistant professor in machine learning.
 </p>
 
 
