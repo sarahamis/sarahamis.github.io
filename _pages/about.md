@@ -35,7 +35,7 @@ if you're a researcher, prospective PhD student or a University student who is l
 </p>
 
 <p>
-<span style="color: #800080;"><b>2025-02-22 Job listing: </b></span> <i> PhD student in interdisciplinary mathematics. Focus: <i> Bayesian pharmacometrics for rare and heterogeneous diseases</i> [closed].
+<span style="color: #800080;"><b>2025-02-22 Job listing: </b></span> PhD student in interdisciplinary mathematics. Focus: <i> Bayesian pharmacometrics for rare and heterogeneous diseases</i> [closed].
 </p>
 
 <p>
