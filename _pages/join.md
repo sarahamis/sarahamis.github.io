@@ -12,7 +12,7 @@ Information about job openings and MSc/BSc projects are listed below.
 
 ## Closed applications, processing (1)
 <div style="background-color: #f7f7f7; border: 2px solid gray; border-radius: 8px; padding: 20px; margin: 20px;">
-<strong> 2025-02-22: PhD student in interdisciplinary mathematics with a focus on Bayesian pharmacometrics for rare and heterogeneous diseases.</strong><br>
+<strong> 2025-02-22: PhD student in interdisciplinary mathematics with a focus on Bayesian pharmacometrics for rare and heterogeneous diseases.</strong>
 <b>Duration</b>: 5 years.<br> 
 </div>
 
