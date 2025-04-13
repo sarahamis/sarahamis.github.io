@@ -9,6 +9,12 @@ Information about job openings and MSc/BSc projects are listed below.
   
 ## Open positions (0)
 
+## Upcoming positions (1)
+<div style="background-color: #f7f7f7; border: 2px solid gray; border-radius: 8px; padding: 20px; margin: 20px;">
+<strong> 2025-02-22: PhD student in Machine Learning with a focus on Bayesian methods in preclinical research.</strong>
+<b>Duration</b>: 5 years.<br>  <b>Excpected opening date</b>: End of April 2025.<br> 
+</div>
+
 
 ## Closed applications, processing (1)
 <div style="background-color: #f7f7f7; border: 2px solid gray; border-radius: 8px; padding: 20px; margin: 20px;">
