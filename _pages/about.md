@@ -71,7 +71,11 @@ if you're a researcher, prospective PhD student or a University student who is l
 </p>
 
 <p>
-<span style="color: #008000;"><b>2024-02-01 Other:</b></span> I joined Uppsala University as an assistant professor in machine learning. Hej Uppsala!
+<span style="color: #ff6600;"><b>2024-02-01 Grant:</b></span> The repatriation part of my <a href="https://www.swgc.org/">Wenner-Gren Fellowship</a> starts. 
+</p>
+
+<p>
+<span style="color: #008000;"><b>2024-02-01 Other:</b></span> I joined Uppsala University as a <a href="https://www.beijerstiftelsen.se/en/partners/the-beijer-laboratory-researchers">Beijer Researcher</a> and assistant professor in machine learning. Hej Uppsala!
 </p>
 
 
