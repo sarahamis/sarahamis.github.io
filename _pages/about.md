@@ -71,7 +71,7 @@ if you're a researcher, prospective PhD student or a University student who is l
 </p>
 
 <p>
-<span style="color: #ff6600;"><b>2024-02-01 Grant:</b></span> The repatriation part of my <a href="https://www.swgc.org/">Wenner-Gren Fellowship</a> starts. 
+<span style="color: #ff6600;"><b>2024-02-01 Grant:</b></span> The repatriation part of my <a href="https://www.swgc.org/">Wenner-Gren Fellowship</a> started. 
 </p>
 
 <p>
