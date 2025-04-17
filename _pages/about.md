@@ -47,7 +47,7 @@ if you're a researcher, prospective PhD student or a University student who is l
 </p>
   
 <p>
-<span style="color: #800080;"><b>2024-11-15 Job listing: </b></span> Open position in the AIMOn group, <i>PhD student in Machine Learning with a focus on probabilistic models in microbial and cellular ecology</i> [person hired]].
+<span style="color: #800080;"><b>2024-11-15 Job listing: </b></span> Open position in the AIMOn group, <i>PhD student in Machine Learning with a focus on probabilistic models in microbial and cellular ecology</i> [person hired].
 </p>
 
 <p>
@@ -59,11 +59,11 @@ if you're a researcher, prospective PhD student or a University student who is l
 </p>
 
 <p>
-<span style="color: #800080;"><b>2024-06-12 Job listing:</b></span> Open position in the AIMOn group, <i>Postdoctoral researcher in mathematical oncology communication</i>  [person hired]].
+<span style="color: #800080;"><b>2024-06-12 Job listing:</b></span> Open position in the AIMOn group, <i>Postdoctoral researcher in mathematical oncology communication</i>  [person hired].
 </p>
 
 <p>
-<span style="color: #800080;"><b>2024-03-20 Job listing:</b></span> Open position in the AIMOn group, <i>Postdoctoral researcher in Bayesian inference for cell biology applications</i>  [person hired]].
+<span style="color: #800080;"><b>2024-03-20 Job listing:</b></span> Open position in the AIMOn group, <i>Postdoctoral researcher in Bayesian inference for cell biology applications</i>  [person hired].
 </p>
 
 <p>
@@ -71,7 +71,7 @@ if you're a researcher, prospective PhD student or a University student who is l
 </p>
 
 <p>
-<span style="color: #008000;"><b>2024-02-01 Other:</b></span> I joined Uppsala University as an assistant professor in machine learning.
+<span style="color: #008000;"><b>2024-02-01 Other:</b></span> I joined Uppsala University as an assistant professor in machine learning. Hej Uppsala!
 </p>
 
 
