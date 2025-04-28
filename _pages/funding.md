@@ -16,6 +16,7 @@ My research is supported by
 - the Wallenberg AI, Autonomous Systems and Software Program (<a href="https://wasp-sweden.org/">WASP</a>) through a PhD project grant (since 2025).
 
 My work for <a href="https://interbayes.github.io/">interBayes</a> is supported by <a href="https://www.uu.se/en/centre/circus">Circus</a> (since 2025).
+In 2025, I have received travel grants from: eSSENCE Exchange.
   
 ### Selected previous funding 
 - In 2024, I received travel grants from: Esseens f matematik; the MATRIX-Simons Scheme; Letterstedts resestip.
