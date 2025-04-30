@@ -31,6 +31,11 @@ if you're a researcher, prospective PhD student or a University student who is l
 ## *News*
 
 <p>
+<span style="color: #800080;"><b>2025-04-30 Job listing: </b></span> PhD student in Machine Learning with a focus on Bayesian models and methods for biomedicines</i>. 
+Read more and apply <a href="https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=821408">here</a>.
+</p>
+
+<p>
 <span style="color: #ff6600;"><b>2025-03-26 Grant:</b></span>  We got a Wallenberg AI, Autonomous Systems and Software Program (<a href="https://wasp-sweden.org/">WASP</a>) grant to fund an academic PhD project. Team: myself and <a href="https://research.chalmers.se/en/person/eszterl">Eszter Lakatos</a>. 
 </p>
 
