@@ -7,7 +7,6 @@ author_profile: true
 
 Information about job openings and MSc/BSc projects are listed below.
   
-## Open positions (0)
 
 ## Open positions (1)
 <div style="background-color: #f7f7f7; border: 2px solid gray; border-radius: 8px; padding: 20px; margin: 20px;">
