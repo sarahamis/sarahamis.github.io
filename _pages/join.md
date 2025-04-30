@@ -10,8 +10,8 @@ Information about job openings and MSc/BSc projects are listed below.
 
 ## Open positions (1)
 <div style="background-color: #f7f7f7; border: 2px solid gray; border-radius: 8px; padding: 20px; margin: 20px;">
-<strong> 2025-04-13: PhD student in Machine Learning with a focus on Bayesian models and methods for biomedicine.</strong>
-<b>Duration</b>: 5 years.<br>  <b>Expected opening date</b>: By end of April 2025.<br> 
+<strong> 2025-04-30: PhD student in Machine Learning with a focus on Bayesian models and methods for biomedicine.</strong>
+<b>Duration</b>: 5 years.<br>  <b>Apply by date</b>: May 23, 2025.<br> 
   Link to application: https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=821408
 </div>
 
