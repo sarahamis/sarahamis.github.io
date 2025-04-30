@@ -31,7 +31,7 @@ if you're a researcher, prospective PhD student or a University student who is l
 ## *News*
 
 <p>
-<span style="color: #800080;"><b>2025-04-30 Job listing: </b></span> PhD student in Machine Learning with a focus on Bayesian models and methods for biomedicines</i>. 
+<span style="color: #800080;"><b>2025-04-30 Job listing: </b></span> PhD student in Machine Learning with a focus on Bayesian models and methods for biomedicine. 
 Read more and apply <a href="https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=821408">here</a>.
 </p>
 
