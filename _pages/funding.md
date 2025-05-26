@@ -17,7 +17,7 @@ My research is supported by
 
 My work for <a href="https://interbayes.github.io/">interBayes</a> is supported by <a href="https://www.uu.se/en/centre/circus">Circus</a> (since 2025).<br>
 
-In 2025, I have received travel grants from: eSSENCE Exchange.
+In 2025, I have received travel grants from: eSSENCE Exchange; Esseens f matematik.
   
 ### Selected previous funding 
 - In 2024, I received travel grants from: Esseens f matematik; the MATRIX-Simons Scheme; Letterstedts resestip.
