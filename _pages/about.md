@@ -31,16 +31,12 @@ if you're a researcher, prospective PhD student or a University student who is l
 ## *News*
 
 <p>
-<span style="color: #800080;"><b>2025-04-30 Job listing: </b></span> PhD student in Machine Learning with a focus on Bayesian models and methods for biomedicine. 
-Read more and apply <a href="https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=821408">here</a>.
+<span style="color: #800080;"><b>2025-04-30 Job listing: </b></span>  <i>PhD student in Machine Learning with a focus on Bayesian models and methods for biomedicine</i>i> 
+[closed].
 </p>
 
 <p>
 <span style="color: #ff6600;"><b>2025-03-26 Grant:</b></span>  We got a Wallenberg AI, Autonomous Systems and Software Program (<a href="https://wasp-sweden.org/">WASP</a>) grant to fund an academic PhD project. Team: myself and <a href="https://research.chalmers.se/en/person/eszterl">Eszter Lakatos</a>. 
-</p>
-
-<p>
-<span style="color: #800080;"><b>2025-02-22 Job listing: </b></span> PhD student in interdisciplinary mathematics. Focus: <i> Bayesian pharmacometrics for rare and heterogeneous diseases</i> [closed].
 </p>
 
 <p>
@@ -52,7 +48,7 @@ Read more and apply <a href="https://www.uu.se/en/about-uu/join-us/jobs-and-vaca
 </p>
   
 <p>
-<span style="color: #800080;"><b>2024-11-15 Job listing: </b></span> Open position in the AIMOn group, <i>PhD student in Machine Learning with a focus on probabilistic models in microbial and cellular ecology</i> [person hired].
+<span style="color: #800080;"><b>2024-11-15 Job listing: </b></span> <i>PhD student in Machine Learning with a focus on probabilistic models in microbial and cellular ecology</i> [person hired].
 </p>
 
 <p>
@@ -64,15 +60,15 @@ Read more and apply <a href="https://www.uu.se/en/about-uu/join-us/jobs-and-vaca
 </p>
 
 <p>
-<span style="color: #800080;"><b>2024-06-12 Job listing:</b></span> Open position in the AIMOn group, <i>Postdoctoral researcher in mathematical oncology communication</i>  [person hired].
+<span style="color: #800080;"><b>2024-06-12 Job listing:</b></span> <i>Postdoctoral researcher in mathematical oncology communication</i>  [person hired].
 </p>
 
 <p>
-<span style="color: #800080;"><b>2024-03-20 Job listing:</b></span> Open position in the AIMOn group, <i>Postdoctoral researcher in Bayesian inference for cell biology applications</i>  [person hired].
+<span style="color: #800080;"><b>2024-03-20 Job listing:</b></span> <i>Postdoctoral researcher in Bayesian inference for cell biology applications</i>  [person hired].
 </p>
 
 <p>
-<span style="color: #800080"><b>2024-02-15 Job listing:</b></span> Open position in the AIMOn group, <i>PhD student in Machine Learning with a focus on scientific computing for applications in cancer research</i>  [person hired].
+<span style="color: #800080"><b>2024-02-15 Job listing:</b></span> <i>PhD student in Machine Learning with a focus on scientific computing for applications in cancer research</i>  [person hired].
 </p>
 
 <p>
