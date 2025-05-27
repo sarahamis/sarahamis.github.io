@@ -31,7 +31,7 @@ if you're a researcher, prospective PhD student or a University student who is l
 ## *News*
 
 <p>
-<span style="color: #800080;"><b>2025-04-30 Job listing: </b></span>  <i>PhD student in Machine Learning with a focus on Bayesian models and methods for biomedicine</i>i> 
+<span style="color: #800080;"><b>2025-04-30 Job listing: </b></span>  <i>PhD student in Machine Learning with a focus on Bayesian models and methods for biomedicine</i> 
 [closed].
 </p>
 
