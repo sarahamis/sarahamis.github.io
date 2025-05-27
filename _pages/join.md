@@ -14,7 +14,7 @@ Information about job openings and MSc/BSc projects are listed below.
 ## Closed applications, processing (1)
 <div style="background-color: #f7f7f7; border: 2px solid gray; border-radius: 8px; padding: 20px; margin: 20px;">
 <strong> 2025-04-30: PhD student in Machine Learning with a focus on Bayesian models and methods for biomedicine.</strong>
-<b>Duration</b>: 5 years.
+<b>Duration</b>: 5 years. [First stage interview invitations have been sent out].
 </div>
 
 
