@@ -8,17 +8,15 @@ author_profile: true
 Information about job openings and MSc/BSc projects are listed below.
   
 
-## Open positions (0)
+## Planned upcoming positions (0)
 
 
-## Closed applications, processing (1)
+## Closed applications, appointed positions (6)
+
 <div style="background-color: #f7f7f7; border: 2px solid gray; border-radius: 8px; padding: 20px; margin: 20px;">
 <strong> 2025-04-30: PhD student in Machine Learning with a focus on Bayesian models and methods for biomedicine.</strong>
-<b>Duration</b>: 5 years. [First stage interview invitations have been sent out].
+<b>Duration</b>: 5 years. <i>Double recruitment.</i>
 </div>
-
-
-## Closed applications, appointed positions (4)
 
 <div style="background-color: #f7f7f7; border: 2px solid gray; border-radius: 8px; padding: 20px; margin: 20px;">
 <strong> 2024-11-15: PhD student in Machine Learning with a focus on probabilistic models in microbial and cellular ecology. </strong> 
