@@ -29,6 +29,9 @@ I previously worked as a postdoctoral researcher at the University of St Andrews
 if you're a researcher, prospective PhD student or a University student who is looking for an opportunity to collaborate on a mathematical and computational oncology project. 
 
 ## *News*
+<p>
+<span style="color: #008000;"><b>2025-08-20 Other:</b></span> We are hosting <a href="https://www.stancon2026.org">StanCon2026</a> in Uppsala, August 17-21!
+</p>
 
 <p>
 <span style="color: #800080;"><b>2025-04-30 Job listing: </b></span>  <i>PhD student in Machine Learning with a focus on Bayesian models and methods for biomedicine</i> 
