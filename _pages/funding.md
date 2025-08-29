@@ -20,7 +20,7 @@ My work for <a href="https://interbayes.github.io/">interBayes</a> is supported 
 In 2025, I have received travel grants from: eSSENCE Exchange; Esseens f matematik.
   
 ### Selected previous funding 
-- In 2024, I received travel grants from: Esseens f matematik; the MATRIX-Simons Scheme; Letterstedts resestip.
 - I had a Wenner-Gren (<a href="https://www.swgc.org/">Wenner-Gren stiftelserna</a>) Postdoctoral Fellowship (2022-2024),
 - I had a <a href="https://research.tuni.fi/tampere-ias/">Tampere Institute for Advanced Study</a> Postdoctoral Fellowship (2021-2023).
 - I had a Jyväskylä University Visiting Postdoctoral Fellowship (2021).
+- In 2024, I received travel grants from: Esseens f matematik; the MATRIX-Simons Scheme; Letterstedts resestip.
