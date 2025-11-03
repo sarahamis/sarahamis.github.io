@@ -9,6 +9,7 @@ We are part of the Division of Systems and Control at the Department of Informat
 
 
 <img src="IMG_0995.jpg" alt="My photo" width="300">
+Autumn 2025 group picture taken outside Ångströmlaboratoriet.
 
 ### Learn more about our group members
 
