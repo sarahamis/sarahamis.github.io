@@ -8,7 +8,7 @@ author_profile: true
 We are part of the Division of Systems and Control at the Department of Information Technology at Uppsala University, Sweden. 
 
 
-<img src="images/IMG_0995.jpg" alt="My photo" width="300">
+<img src="IMG_0995.jpg" alt="My photo" width="300">
 
 ### Learn more about our group members
 
