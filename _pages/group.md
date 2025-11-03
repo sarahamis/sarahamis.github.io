@@ -7,17 +7,18 @@ author_profile: true
 
 We are part of the Division of Systems and Control at the Department of Information Technology at Uppsala University, Sweden. 
 
-<img src="https://github.com/sarahamis/sarahamis.github.io/blob/master/images/Bild1_gb.png?raw=true" alt="">
+
+
 
 ### Learn more about our group members
 
 <p><a href="https://www.uu.se/en/contact-and-organisation/staff?query=N24-1659">William Lavery, PhD Student</a>. </p>
 
-<p>Maiya Tebäck, PhD Student. </p>
+<p><a href="https://www.uu.se/en/contact-and-organisation/staff?query=N25-1752">Maiya Tebäck, PhD Student</a>. </p>
 
-<p>Cici Chen Gu, PhD Student. </p>
+<p><a href="https://www.uu.se/en/contact-and-organisation/staff?query=N24-2656">Cici Chen Gu, PhD Student</a>. </p>
 
-<p>Benjamin Olsson, PhD Student. </p>
+<p><a href="https://www.uu.se/en/contact-and-organisation/staff?query=N25-1888">Benjamin Olsson, PhD Student</a>. </p>
 
 <p><a href="https://www.uu.se/en/contact-and-organisation/staff?query=N24-1712">Jodie Cochrane, postdoctoral researcher</a>. </p>
 
