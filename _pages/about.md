@@ -30,6 +30,10 @@ if you're a researcher, prospective PhD student or a University student who is l
 
 ## *News*
 <p>
+<span style="color: #ff6600;"><b>2024-10-31 Grant (co-I):</b></span> Our network was awarded a grant for planning future excellence clusters from the  <a href="https://www.vr.se/english.html">Swedish Research Council</a>. PI: <a href="https://www.uu.se/en/contact-and-organisation/staff?query=N15-1950">Erik Jansson</a>. 
+</p>
+
+<p>
 <span style="color: #008000;"><b>2025-08-20 Other:</b></span> We are hosting <a href="https://www.stancon2026.org">StanCon2026</a> in Uppsala, August 17-21!
 </p>
 
@@ -39,15 +43,15 @@ if you're a researcher, prospective PhD student or a University student who is l
 </p>
 
 <p>
-<span style="color: #ff6600;"><b>2025-03-26 Grant:</b></span>  We got a Wallenberg AI, Autonomous Systems and Software Program (<a href="https://wasp-sweden.org/">WASP</a>) grant to fund two academic PhD project students. Supervisor team: myself and <a href="https://research.chalmers.se/en/person/eszterl">Eszter Lakatos</a>. 
+<span style="color: #ff6600;"><b>2025-03-26 Grant (PI):</b></span>  We got a Wallenberg AI, Autonomous Systems and Software Program (<a href="https://wasp-sweden.org/">WASP</a>) grant to fund two academic PhD project students. Supervisor team: myself and <a href="https://research.chalmers.se/en/person/eszterl">Eszter Lakatos</a>. 
 </p>
 
 <p>
-<span style="color: #ff6600;"><b>2024-11-29 Grant:</b></span>  Our Uppsala University network <a href="https://interbayes.github.io/">interBayes</a> on Bayesian inference for interdisciplinary research was awarded 2 years' funding from <a href="https://www.uu.se/centrum/circus">Circus</a>.
+<span style="color: #ff6600;"><b>2024-11-29 Grant (co-PI):</b></span>  Our Uppsala University network <a href="https://interbayes.github.io/">interBayes</a> on Bayesian inference for interdisciplinary research was awarded 2 years' funding from <a href="https://www.uu.se/centrum/circus">Circus</a>.
 </p>
 
 <p>
-<span style="color: #ff6600;"><b>2024-11-26 Grant:</b></span>  I was awarded a scholarship from the <a href="https://www.swgc.org/">Wenner-Gren foundations</a> to fund a postdoctoral researcher for 2 years. 
+<span style="color: #ff6600;"><b>2024-11-26 Grant (PI):</b></span>  I was awarded a scholarship from the <a href="https://www.swgc.org/">Wenner-Gren foundations</a> to fund a postdoctoral researcher for 2 years. 
 </p>
   
 <p>
@@ -55,7 +59,7 @@ if you're a researcher, prospective PhD student or a University student who is l
 </p>
 
 <p>
-<span style="color: #ff6600;"><b>2024-10-31 Grant:</b></span> I was awarded a Starting Grant from the <a href="https://www.vr.se/english.html">Swedish Research Council</a> (Natural and engineering sciences 2024). 
+<span style="color: #ff6600;"><b>2024-10-31 Grant (PI):</b></span> I was awarded a Starting Grant from the <a href="https://www.vr.se/english.html">Swedish Research Council</a> (Natural and engineering sciences 2024). 
 </p>
 
 <p>
@@ -75,7 +79,7 @@ if you're a researcher, prospective PhD student or a University student who is l
 </p>
 
 <p>
-<span style="color: #ff6600;"><b>2024-02-01 Grant:</b></span> The repatriation part of my <a href="https://www.swgc.org/">Wenner-Gren Fellowship</a> started. 
+<span style="color: #ff6600;"><b>2024-02-01 Grant (PI):</b></span> The repatriation part of my <a href="https://www.swgc.org/">Wenner-Gren Fellowship</a> started. 
 </p>
 
 <p>
