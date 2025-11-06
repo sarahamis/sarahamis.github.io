@@ -63,10 +63,6 @@ if you're a researcher, prospective PhD student or a University student who is l
 </p>
 
 <p>
-<span style="color: #008000;"><b>2024-09-12 Other:</b></span> MSc projects in the AIMOn group for 2025 are now live [closed].
-</p>
-
-<p>
 <span style="color: #800080;"><b>2024-06-12 Job listing:</b></span> <i>Postdoctoral researcher in mathematical oncology communication</i>  [person hired].
 </p>
 
