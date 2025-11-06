@@ -30,10 +30,6 @@ if you're a researcher, prospective PhD student or a University student who is l
 
 ## *News*
 <p>
-<span style="color: #ff6600;"><b>2024-10-31 Grant (co-I):</b></span> Our network was awarded a grant for planning future excellence clusters from the  <a href="https://www.vr.se/english.html">Swedish Research Council</a>. PI: <a href="https://www.uu.se/en/contact-and-organisation/staff?query=N15-1950">Erik Jansson</a>. 
-</p>
-
-<p>
 <span style="color: #008000;"><b>2025-08-20 Other:</b></span> We are hosting <a href="https://www.stancon2026.org">StanCon2026</a> in Uppsala, August 17-21!
 </p>
 
