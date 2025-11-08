@@ -21,10 +21,10 @@ In 2025, I have received travel grants from: eSSENCE Exchange; Esseens f matemat
   
 ### Selected previous funding as Principal Investigator (PI)
 - I had a Wenner-Gren (<a href="https://www.swgc.org/">Wenner-Gren stiftelserna</a>) Postdoctoral Fellowship (2022-2024),
-- I had a <a href="https://research.tuni.fi/tampere-ias/">Tampere Institute for Advanced Study</a> Postdoctoral Fellowship (2021-2023).
-- I had a Jyväskylä University Visiting Postdoctoral Fellowship (2021).
+- I had a <a href="https://research.tuni.fi/tampere-ias/">Tampere Institute for Advanced Study</a> Postdoctoral Fellowship (2021-2023),
+- I had a Jyväskylä University Visiting Postdoctoral Fellowship (2021),
 - In 2024, I received travel grants from: Esseens f matematik; the MATRIX-Simons Scheme; Letterstedts resestip.
 
 ### Current funding as co-Investigator (co-I)
-My research is supported by 
+My work is supported by 
 - a network grant from the  <a href="https://www.vr.se/english.html">Swedish Research Council</a> for planning future excellence clusters (since 2025). PI: <a href="https://www.uu.se/en/contact-and-organisation/staff?query=N15-1950">Erik Jansson</a>. 
