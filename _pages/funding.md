@@ -17,7 +17,7 @@ My research is supported by
 
 My work for <a href="https://interbayes.github.io/">interBayes</a> is supported by <a href="https://www.uu.se/en/centre/circus">Circus</a> (since 2025).<br>
 
-In 2025 I have received travel grants from: eSSENCE Exchange; Esseens f matematik; The Royal Swedish Academy of Sciences (KVA;matematik).
+In 2025 I have received travel grants from: eSSENCE Exchange; Esseens f matematik; The Royal Swedish Academy of Sciences (KVA; matematik).
   
 ### Selected previous funding as Principal Investigator (PI)
 - I had a Wenner-Gren (<a href="https://www.swgc.org/">Wenner-Gren stiftelserna</a>) Postdoctoral Fellowship (2022-2024),
