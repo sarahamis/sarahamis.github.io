@@ -17,13 +17,13 @@ My research is supported by
 
 My work for <a href="https://interbayes.github.io/">interBayes</a> is supported by <a href="https://www.uu.se/en/centre/circus">Circus</a> (since 2025).<br>
 
-In 2025 I have received travel grants from: eSSENCE Exchange; Esseens f matematik; The Royal Swedish Academy of Sciences (KVA; matematik).
   
 ### Selected previous funding as Principal Investigator (PI)
 - I had a Wenner-Gren (<a href="https://www.swgc.org/">Wenner-Gren stiftelserna</a>) Postdoctoral Fellowship (2022-2024),
 - I had a <a href="https://research.tuni.fi/tampere-ias/">Tampere Institute for Advanced Study</a> Postdoctoral Fellowship (2021-2023),
 - I had a Jyväskylä University Visiting Postdoctoral Fellowship (2021),
-- In 2024 I received travel grants from: Esseens f matematik; the MATRIX-Simons Scheme; Letterstedts resestip.
+- In 2024-2025 I received travel grants from: Esseens f matematik (x2); the MATRIX-Simons Scheme; Letterstedts resestip; eSSENCE Exchange; the Royal Swedish Academy of Sciences (KVA; matematik).
+- In 2025 I received visitor-invitation grants from: Wenner-Gren stiftelserna.
 
 ### Current funding as co-Investigator (co-I)
 My work is supported by 
