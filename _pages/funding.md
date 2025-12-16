@@ -22,7 +22,7 @@ My work for <a href="https://interbayes.github.io/">interBayes</a> is supported 
 - I had a Wenner-Gren (<a href="https://www.swgc.org/">Wenner-Gren stiftelserna</a>) Postdoctoral Fellowship (2022-2024),
 - I had a <a href="https://research.tuni.fi/tampere-ias/">Tampere Institute for Advanced Study</a> Postdoctoral Fellowship (2021-2023),
 - I had a Jyväskylä University Visiting Postdoctoral Fellowship (2021),
-- In 2024-2025 I received travel/invitation grants from: Esseens f matematik (x2); the MATRIX-Simons Scheme; Letterstedts resestip; eSSENCE Exchange; UU-IT Equal Opportunities; Wenner-Gren stiftelserna; the Royal Swedish Academy of Sciences (KVA-matematik).
+- In 2024-2025 I received travel/invitation grants from: Esseens f matematik (x3); the MATRIX-Simons Scheme; Letterstedts resestip; eSSENCE Exchange; UU-IT Equal Opportunities; Wenner-Gren stiftelserna; the Royal Swedish Academy of Sciences (KVA-matematik).
 
 ### Current funding as co-Investigator (co-I)
 My work is supported by 
