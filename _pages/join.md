@@ -9,7 +9,7 @@ Information about job openings and MSc/BSc projects are listed below.
   
 
 ## Upcoming positions (1)
-<div style="background-color: #eaeaea border: 2px solid gray; border-radius: 8px; padding: 20px; margin: 20px;">
+<div style="background-color: #eaeaea; border: 2px solid gray; border-radius: 8px; padding: 20px; margin: 20px;">
 <strong> A new PhD position will open in spring 2026.  </strong>
 <b>Duration</b>: 5 years.
 </div>
