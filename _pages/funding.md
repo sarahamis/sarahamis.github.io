@@ -10,8 +10,8 @@ I thank the funders who support my research.
 ### Current funding as Principal Investigator (PI)
 
 My research is supported by 
-- the Wenner-Gren Foundations (<a href="https://www.swgc.org/">Wenner-Gren stiftelserna</a>) through repatriation and recruitment grants (since 2024),
 - the Beijer Foundation (<a href="https://www.beijerstiftelsen.se">Kjell och Märta Beijers stiftelse</a>) through my appointment as a Beijer Researcher (since 2024),
+- the Wenner-Gren Foundations (<a href="https://www.swgc.org/">Wenner-Gren stiftelserna</a>) through a postdoc-recruitment grants (since 2024),
 - the Swedish Research Council (<a href="https://www.vr.se/english.html">Vetenskapsrådet</a>) through a Starting Grant (since 2024),
 - the Wallenberg AI, Autonomous Systems and Software Program (<a href="https://wasp-sweden.org/">WASP</a>) through a PhD project grant (since 2025).
 
@@ -19,6 +19,7 @@ My work for <a href="https://interbayes.github.io/">interBayes</a> is supported 
 
   
 ### Selected previous funding as Principal Investigator (PI)
+- I had a Wenner-Gren (<a href="https://www.swgc.org/">Wenner-Gren stiftelserna</a>) repatriation grant (2024-2026),
 - I had a Wenner-Gren (<a href="https://www.swgc.org/">Wenner-Gren stiftelserna</a>) Postdoctoral Fellowship (2022-2024),
 - I had a <a href="https://research.tuni.fi/tampere-ias/">Tampere Institute for Advanced Study</a> Postdoctoral Fellowship (2021-2023),
 - I had a Jyväskylä University Visiting Postdoctoral Fellowship (2021),
