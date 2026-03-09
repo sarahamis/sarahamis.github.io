@@ -14,7 +14,7 @@ Information about job openings and MSc/BSc projects are listed below.
 <b>Duration</b>: 5 years. <i>Expected to open in March/April 2026.</i>
 </div>
 
-## Upcoming positions (0)
+## Open positions (0)
 
 ## Closed applications, appointed positions (6)
 
