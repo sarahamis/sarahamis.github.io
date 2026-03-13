@@ -30,6 +30,10 @@ if you're a researcher, prospective PhD student or a University student who is l
 
 ## *News*
 <p>
+<span style="color: #ff6600;"><b>2026-03-13 Grant (PI):</b></span> I was awarded a SciLifeLab / Data-Driven Life Science (<a href="https://www.scilifelab.se/data-driven/ddls-research-school/rs-phd-projects/">DDLS</a>) grant to fund a PhD student. 
+</p>
+
+<p>
 <span style="color: #008000;"><b>2025-08-20 Other:</b></span> We are hosting <a href="https://www.stancon2026.org">StanCon2026</a> in Uppsala, August 17-21!
 </p>
 
@@ -39,7 +43,7 @@ if you're a researcher, prospective PhD student or a University student who is l
 </p>
 
 <p>
-<span style="color: #ff6600;"><b>2025-03-26 Grant (PI):</b></span>  We got a Wallenberg AI, Autonomous Systems and Software Program (<a href="https://wasp-sweden.org/">WASP</a>) grant to fund two academic PhD project students. Supervisor team: myself and <a href="https://research.chalmers.se/en/person/eszterl">Eszter Lakatos</a>. 
+<span style="color: #ff6600;"><b>2025-03-26 Grant (PI):</b></span> I was awarded a Wallenberg AI, Autonomous Systems and Software Program (<a href="https://wasp-sweden.org/">WASP</a>) grant to fund two academic PhD project students. 
 </p>
 
 <p>
