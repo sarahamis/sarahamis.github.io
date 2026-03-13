@@ -11,7 +11,7 @@ Information about job openings and MSc/BSc projects are listed below.
 ## Upcoming positions (1)
 <div style="background-color: #f7f7f7; border: 2px solid gray; border-radius: 8px; padding: 20px; margin: 20px;">
 <strong> 2026: PhD student.</strong>
-<b>Duration</b>: 5 years. <i>Expected to open in March/April 2026.</i>
+<b>Duration</b>: 5 years. <i>Expected to open in late March/early April 2026 and close May 14.</i>
 </div>
 
 ## Open positions (0)
