@@ -30,7 +30,7 @@ if you're a researcher, prospective PhD student or a University student who is l
 
 ## *News*
 <p>
-<span style="color: #ff6600;"><b>2026-03-13 Grant (PI):</b></span> I was awarded a SciLifeLab / Data-Driven Life Science (<a href="https://www.scilifelab.se/data-driven/ddls-research-school/rs-phd-projects/">DDLS</a>) grant to fund a PhD student. 
+<span style="color: #ff6600;"><b>2026-03-13 Grant (PI):</b></span> I was awarded a SciLifeLab / Data-Driven Life Science (<a href="https://www.scilifelab.se/data-driven/ddls-research-school/rs-phd-projects/">DDLS</a>) grant to fund a PhD student. Co-applicants and co-supervisors: <a href="https://www.ektavats.se">Ekta Vats</a> and <a href="https://www.uu.se/kontakt-och-organisation/personal?query=N16-734">Pär Stattin</a>.
 </p>
 
 <p>
@@ -43,7 +43,7 @@ if you're a researcher, prospective PhD student or a University student who is l
 </p>
 
 <p>
-<span style="color: #ff6600;"><b>2025-03-26 Grant (PI):</b></span> I was awarded a Wallenberg AI, Autonomous Systems and Software Program (<a href="https://wasp-sweden.org/">WASP</a>) grant to fund two academic PhD project students. 
+<span style="color: #ff6600;"><b>2025-03-26 Grant (PI):</b></span> I was awarded a Wallenberg AI, Autonomous Systems and Software Program (<a href="https://wasp-sweden.org/">WASP</a>) grant to fund two academic PhD project students. Co-applicant and co-supervisor: <a href="https://elakatos.github.io">Eszter Lakatos</a>.
 </p>
 
 <p>
