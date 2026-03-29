@@ -10,8 +10,8 @@ Information about job openings and MSc/BSc projects are listed below.
 
 ## Upcoming positions (1)
 <div style="background-color: #f7f7f7; border: 2px solid gray; border-radius: 8px; padding: 20px; margin: 20px;">
-<strong> 2026: PhD student.</strong>
-<b>Duration</b>: 5 years. <i>Expected to open April 1 and close May 14 (2026).</i>
+<strong> 2026: PhD student in Machine Learning with a focus on uncertainty quantification in large language models for healthcare research. </strong>
+<b>Duration</b>: 5 years. <i>Expected to open early April. Will close May 14 (2026).</i>
 </div>
 
 ## Open positions (0)
