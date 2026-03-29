@@ -26,6 +26,6 @@ My work for <a href="https://interbayes.github.io/">interBayes</a> is supported 
 - I had a Jyväskylä University Visiting Postdoctoral Fellowship (2021),
 - In 2024-2025 I received travel/invitation grants from: Esseens f matematik (three times); the MATRIX-Simons Scheme; Letterstedts resestip; eSSENCE Exchange; UU-IT Equal Opportunities; Wenner-Gren stiftelserna; the Royal Swedish Academy of Sciences (KVA-matematik).
 
-### Previous funding as co-Investigator (co-I)
-My was is supported by 
+### Selected previous funding as co-Investigator (co-I)
+My work was is supported by 
 - a network grant from the  <a href="https://www.vr.se/english.html">Swedish Research Council</a> for planning future excellence clusters (2025-2026). PI: <a href="https://www.uu.se/en/contact-and-organisation/staff?query=N15-1950">Erik Jansson</a>. 
