@@ -6,15 +6,14 @@ author_profile: true
 ---
 
 Information about job openings and MSc/BSc projects are listed below.
-  
 
-## Upcoming positions (1)
+## Upcoming positions (0)
+
+## Open positions (1)
 <div style="background-color: #f7f7f7; border: 2px solid gray; border-radius: 8px; padding: 20px; margin: 20px;">
 <strong> 2026: PhD student in Machine Learning with a focus on uncertainty quantification in large language models for healthcare research. </strong>
-<b>Duration</b>: 5 years. <i>Expected to open early April. Will close May 14 (2026).</i>
+<b>Duration</b>: 5 years. <i> Will close May 14 (2026).</i> [Link](https://www.uu.se/om-uu/jobba-hos-oss/lediga-jobb/jobbannons?query=920099)
 </div>
-
-## Open positions (0)
 
 ## Closed applications, appointed positions (6)
 
