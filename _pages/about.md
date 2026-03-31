@@ -26,7 +26,7 @@ I previously worked as a postdoctoral researcher at the University of St Andrews
 ## *News*
 
 <p>
-<span style="color: #800080;"><b>2026-03-31 Job listing: </b></span> <i>PhD student in Machine Learning with a focus on uncertainty quantification in large language models for healthcare research.</i> <Read more here: https://www.uu.se/om-uu/jobba-hos-oss/lediga-jobb/jobbannons?query=920099>
+<span style="color: #800080;"><b>2026-03-31 Job listing: </b></span> <i>PhD student in Machine Learning with a focus on uncertainty quantification in large language models for healthcare research.</i> <a href="https://www.uu.se/om-uu/jobba-hos-oss/lediga-jobb/jobbannons?query=920099">Read more at Uppsala University's website.</a> 
 </p>
 
 
