@@ -16,7 +16,7 @@ I am an Assistant Professor in Machine Learning, a
 My research focuses on developing mathematical, statistical and computational methods to understand and predict cancer dynamics. 
 I am spearheading the 
 <a href="https://sarahamis.github.io/group/">Artificial Intelligence and Mathematics for Oncology (AIMOn)</a> 
-research group. 
+research group.  
 </p>
 
 <p>
