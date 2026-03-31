@@ -23,12 +23,13 @@ research group.
 I previously worked as a postdoctoral researcher at the University of St Andrews (Scotland), Tampere University (Finland) and the University of Jyväskylä (Finland). I hold a PhD in Mathematics from Swansea University (Wales) awarded year 2020.
 </p>
 
-### Working with me
-
-<a href="https://sarahamis.github.io/contact/">Contact me</a> 
-if you're a researcher, prospective PhD student or a University student who is looking for an opportunity to collaborate on a mathematical and computational oncology project. 
-
 ## *News*
+
+<p>
+<span style="color: #800080;"><b>2026-03-31 Job listing: </b></span> <i>PhD student in Machine Learning with a focus on uncertainty quantification in large language models for healthcare research.</i> [Link](https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=920099
+</p>
+
+
 <p>
 <span style="color: #ff6600;"><b>2026-03-13 Grant (PI):</b></span> I was awarded a SciLifeLab / Data-Driven Life Science (<a href="https://www.scilifelab.se/data-driven/ddls-research-school/rs-phd-projects/">DDLS</a>) grant to fund a PhD student. Co-applicants and co-supervisors: <a href="https://www.ektavats.se">Ekta Vats</a> and <a href="https://www.uu.se/kontakt-och-organisation/personal?query=N16-734">Pär Stattin</a>.
 </p>
