@@ -14,7 +14,7 @@ My research is supported by
 - the Wenner-Gren Foundations (<a href="https://www.swgc.org/">Wenner-Gren stiftelserna</a>) through a postdoc-recruitment grant (since 2024),
 - the Swedish Research Council (<a href="https://www.vr.se/english.html">Vetenskapsrådet</a>) through a Starting Grant (since 2024),
 - the Wallenberg AI, Autonomous Systems and Software Program (<a href="https://wasp-sweden.org/">WASP</a>) through a double-recruitment PhD project grant (since 2025),
-- the SciLifeLab and Wallenberg National Program for Data-Driven Life Science (DDLS) through a PhD project grant (since 2026).
+- the SciLifeLab and Wallenberg National Program for Data-Driven Life Science (<a href="https://www.scilifelab.se/data-driven/">DDLS</a>) through a PhD project grant (since 2026).
 
 My work for <a href="https://interbayes.github.io/">interBayes</a> is supported by <a href="https://www.uu.se/en/centre/circus">Circus</a> (since 2025).<br>
 
