@@ -26,6 +26,11 @@ My work for <a href="https://interbayes.github.io/">interBayes</a> is supported 
 - I had a Jyväskylä University Visiting Postdoctoral Fellowship (2021),
 - In 2024-2026 I received travel/invitation grants from: Esseens f matematik (four times); the MATRIX-Simons Scheme; Letterstedts resestip; eSSENCE Exchange; UU-IT Equal Opportunities; Wenner-Gren stiftelserna; the Royal Swedish Academy of Sciences (KVA-matematik).
 
+
 ### Selected previous funding as co-Investigator (co-I)
 My work was supported by 
 - a network grant from the  <a href="https://www.vr.se/english.html">Swedish Research Council</a> for planning future excellence clusters (2025-2026). PI: <a href="https://www.uu.se/en/contact-and-organisation/staff?query=N15-1950">Erik Jansson</a>. 
+
+### Selected funding for Scientific Meetings that I am organising with colleagues
+- <a href="https://www.stancon2026.org/">StanCon 2026</a> is funded by Kjell och Märta Beijers stiftelse, eSSENCE, The Swedish Excellence Centre for Social Science, and Carl Tryggers Foundation.
+- <a href="https://nordic-biomathematics.github.io">The 3rd Nordic Biomathematics Meeting</a> is funded by Wenner-Gren stiftelserna.
