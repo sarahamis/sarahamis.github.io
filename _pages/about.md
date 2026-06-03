@@ -30,7 +30,7 @@ I previously worked as a postdoctoral researcher at the University of St Andrews
 </p>
 
 <p>
-<span style="color: #008000;"><b>2025-06-01 Other:</b></span> We are hosting the <a href="https://nordic-biomathematics.github.io/">3rd Nordic Biomathematics Meeting</a> in Uppsala, December 3-4 (2026)!
+<span style="color: #008000;"><b>2026-06-01 Other:</b></span> We are hosting the <a href="https://nordic-biomathematics.github.io/">3rd Nordic Biomathematics Meeting</a> in Uppsala, December 3-4 (2026)!
 </p>
 
 
