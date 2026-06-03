@@ -26,7 +26,11 @@ I previously worked as a postdoctoral researcher at the University of St Andrews
 ## *News*
 
 <p>
-<span style="color: #800080;"><b>2026-03-31 Job listing: </b></span> <i>PhD student in Machine Learning with a focus on uncertainty quantification in large language models for healthcare research.</i> <a href="https://www.uu.se/om-uu/jobba-hos-oss/lediga-jobb/jobbannons?query=920099">Read more on Uppsala University's website.</a> 
+<span style="color: #800080;"><b>2026-06-03 Job listing: </b></span> <i>PhD student in Machine Learning with a focus on mathematical foundations of uncertainty quantification in deep learning.</i> <a href="https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=943164">Read more on Uppsala University's website.</a> 
+</p>
+
+<p>
+<span style="color: #008000;"><b>2025-06-01 Other:</b></span> We are hosting the <a href="https://nordic-biomathematics.github.io/">3rd Nordic Biomathematics Meeting</a> in Uppsala, December 3-4 (2026)!
 </p>
 
 
