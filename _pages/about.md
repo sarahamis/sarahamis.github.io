@@ -26,7 +26,7 @@ I previously worked as a postdoctoral researcher at the University of St Andrews
 ## *News*
 
 <p>
-<span style="color: #008000;"><b>2026-06-29 Other: </b></span> I was awarded the Oscar Prize <a href="https://www.uu.se/nyheter/2026/2026-06-29-oscarspris-till-sara-hamis-och-oskar-mossberg">(Oscarspriset)</a> 2026.
+<span style="color: #008000;"><b>2026-06-29 Other: </b></span> I was awarded the Uppsala University Oscar Prize <a href="https://www.uu.se/nyheter/2026/2026-06-29-oscarspris-till-sara-hamis-och-oskar-mossberg">(Oscarspriset)</a> 2026.
 </p>
 
 
