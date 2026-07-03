@@ -27,7 +27,7 @@ I previously worked as a postdoctoral researcher at the University of St Andrews
 
 <p>
 <span style="color: #800080;"><b>2026-07-02 Postdoc opportunity: </b></span>  
-<i> Possibility to apply for funding</i>. <a href="https://discourse.mc-stan.org/t/possible-postdoc-opportunity-at-uppsala-university-bayesian-computation-mcmc-hmc-biomathematics-or-agent-based-modeling/41416">Bayesian computation, MCMC/HMC, biomathematics, or agent-based modeling.</a> 
+<i> Possibility to apply for funding towards a 2-year position at Uppsala</i>. <a href="https://discourse.mc-stan.org/t/possible-postdoc-opportunity-at-uppsala-university-bayesian-computation-mcmc-hmc-biomathematics-or-agent-based-modeling/41416">Bayesian computation, MCMC/HMC, biomathematics, or agent-based modeling.</a> 
 </p>
 
 <p>
