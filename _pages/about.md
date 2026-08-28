@@ -54,7 +54,7 @@ I previously worked as a postdoctoral researcher at the University of St Andrews
 </p>
 
 <p>
-<span style="color: #ff6600;"><b>2025-03-26 Grant (PI):</b></span> We were awarded a Wallenberg AI, Autonomous Systems and Software Program (<a href="https://wasp-sweden.org/">WASP</a>) grant to fund two academic PhD project students. Co-applicant and co-supervisor: <a href="https://elakatos.github.io">Eszter Lakatos</a>.
+<span style="color: #ff6600;"><b>2025-03-26 Grant (PI):</b></span> We were awarded a Wallenberg AI, Autonomous Systems and Software Program (<a href="https://wasp-sweden.org/">WASP</a>) grant to fund up to two academic PhD project students. Co-applicant and co-supervisor: <a href="https://elakatos.github.io">Eszter Lakatos</a>.
 </p>
 
 <p>
