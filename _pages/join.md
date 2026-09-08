@@ -7,9 +7,13 @@ author_profile: true
 
 Information about job openings and MSc/BSc projects are listed below.
 
-## Upcoming positions (0)
+## Upcoming positions (1)
+<div style="background-color: #f7f7f7; border: 2px solid gray; border-radius: 8px; padding: 20px; margin: 20px;">
+<strong> Expected announcement October 2026: Postdoctoral researcher on WASP & WASP-HS project.</strong> 
+<b>Duration</b>: 2 years. 
+</div>
 
-## Open positions (1)
+## Positions under recruitment (1)
 <div style="background-color: #f7f7f7; border: 2px solid gray; border-radius: 8px; padding: 20px; margin: 20px;">
 <strong> 2026-06-03: PhD student in Machine Learning with a focus on mathematical foundations of uncertainty quantification in deep learning. </strong>
 <b>Duration</b>: 5 years. <i> Closing July 31, 2026.</i> <a href="https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=943164">Read more at Uppsala University's website.</a> 
