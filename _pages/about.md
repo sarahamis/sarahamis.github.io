@@ -25,6 +25,10 @@ I previously worked as a postdoctoral researcher at the University of St Andrews
 
 ## *News*
 
+<p>
+<span style="color: #ff6600;"><b>2026-09-08 Grant (PI, WASP):</b></span> We were awarded a <a href="https://wasp-sweden.org/">WASP</a> and <a href="https://wasp-sweden.org/">WASP-HS</a> project grant to fund a project and postdoctoral researcher. WASP-HS PI and co-I: <a href="https://liu.se/en/employee/nicla05">
+Nicolette Lakemond</a> and <a href="https://liu.se/medarbetare/gunho61">Gunnar Holmberg</a>.
+</p>
 
 <p>
 <span style="color: #008000;"><b>2026-06-29 Other: </b></span> I was awarded the Uppsala University Oscar Prize <a href="https://www.uu.se/nyheter/2026/2026-06-29-oscarspris-till-sara-hamis-och-oskar-mossberg">(Oscarspriset)</a> 2026.
