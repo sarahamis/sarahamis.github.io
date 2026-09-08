@@ -62,10 +62,6 @@ Nicolette Lakemond</a> and <a href="https://liu.se/medarbetare/gunho61">Gunnar H
 </p>
 
 <p>
-<span style="color: #ff6600;"><b>2024-11-29 Grant (co-PI):</b></span>  Our Uppsala University network <a href="https://interbayes.github.io/">interBayes</a> on Bayesian inference for interdisciplinary research was awarded 2 years' funding from <a href="https://www.uu.se/centrum/circus">Circus</a>.
-</p>
-
-<p>
 <span style="color: #ff6600;"><b>2024-11-26 Grant (PI):</b></span>  I was awarded a scholarship from the <a href="https://www.swgc.org/">Wenner-Gren foundations</a> to fund a postdoctoral researcher for 2 years. 
 </p>
   
