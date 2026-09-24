@@ -26,17 +26,16 @@ I previously worked as a postdoctoral researcher at the University of St Andrews
 ## *News*
 
 <p>
+<span style="color: #800080;"><b>2026-09-23 Job listing: </b></span> <i>PhD student in Machine Learning with a focus on mathematical and statistical methods for uncertainty quantification </i> <a href="https://uu.varbi.com/what:job/jobID:972267/"> [closes Oct 15].</a> 
+</p>
+
+<p>
 <span style="color: #ff6600;"><b>2026-09-08 Grant (PI):</b></span> We were awarded a <a href="https://wasp-hs.org/three-projects-awarded-funding-in-first-joint-wasp-and-wasp-hs-call/">joint WASP and WASP-HS</a> project grant to fund a project and postdoctoral researcher. WASP PI: me. WASP-HS PI and co-I: <a href="https://liu.se/en/employee/nicla05">
 Nicolette Lakemond</a> and <a href="https://liu.se/medarbetare/gunho61">Gunnar Holmberg</a>.
 </p>
 
 <p>
 <span style="color: #008000;"><b>2026-06-29 Other: </b></span> I was awarded the Uppsala University Oscar Prize <a href="https://www.uu.se/nyheter/2026/2026-06-29-oscarspris-till-sara-hamis-och-oskar-mossberg">(Oscarspriset)</a> 2026.
-</p>
-
-
-<p>
-<span style="color: #800080;"><b>2026-06-03 Job listing: </b></span> <i>PhD student in Machine Learning with a focus on mathematical foundations of uncertainty quantification in deep learning </i> <a href="https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=943164">[application closed].</a> 
 </p>
 
 <p>
