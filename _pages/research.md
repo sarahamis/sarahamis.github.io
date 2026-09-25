@@ -9,7 +9,7 @@ author_profile: true
 
 ## Mathematical and statistical modelling
 We develop mechanistic and statistical models at different scales: from intracellular signalling to tumours and human populations. 
-Models include differential equations, agent-based models and survival models.
+Models include differential equation models, agent-based models and survival models.
 
 ## Inference and identifiability
 With the growing availability of data, integrating models with empirical observations has become a key part of cancer research. 
