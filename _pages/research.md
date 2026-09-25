@@ -24,6 +24,6 @@ We also develop diagnostics for Markov chain Monte Carlo.
 Machine learning methods can be used to learn the equations that govern dynamical systems from data. 
 We use physics-informed neural networks to learn partial differential equations from cancer cell data, and propose pipelines for selecting hyperparameters in such applications.
 
-## Bibliometrics and science of science
+## Bibliometrics
 Bibliometrics is the quantitative analysis of scientific publications and the networks between them. 
 We use it to study how concepts emerge and propagate in interdisciplinary and quantitative areas of cancer research.
