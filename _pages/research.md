@@ -26,4 +26,4 @@ We use physics-informed neural networks to learn partial differential equations 
 
 ## Bibliometrics
 Bibliometrics is the quantitative analysis of scientific publications and the networks between them. 
-We use it to study how concepts emerge and propagate in interdisciplinary and quantitative areas of cancer research.
+We use it to study how concepts emerge and propagate in interdisciplinary and quantitative areas of cancer research, and how researcher collaborate. 
