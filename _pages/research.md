@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-## Dynamical systems
+## Mathematical and statistical modelling
 We develop mechanistic and statistical models at different scales: from intracellular signalling to tumours and human populations. 
 Models include differential equations, agent-based models and survival models.
 
