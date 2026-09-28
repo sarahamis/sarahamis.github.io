@@ -13,5 +13,4 @@ author_profile: true
 |**Postal address** | Box 337, 751 05 UPPSALA |
 
 
-
-
+Det går bra att kontakta mig på svenska.
