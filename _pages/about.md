@@ -34,11 +34,11 @@ Nicolette Lakemond</a> and <a href="https://liu.se/medarbetare/gunho61">Gunnar H
 </p>
 
 <p>
-<span style="color: #008000;"><b>2026-06-29 Other: </b></span> I was awarded the Uppsala University Oscar Prize <a href="https://www.uu.se/nyheter/2026/2026-06-29-oscarspris-till-sara-hamis-och-oskar-mossberg">(Oscarspriset)</a> 2026.
+<span style="color: #008000;"><b>2026-06-29 Award: </b></span> I was awarded the Uppsala University Oscar Prize <a href="https://www.uu.se/nyheter/2026/2026-06-29-oscarspris-till-sara-hamis-och-oskar-mossberg">(Oscarspriset)</a> 2026.
 </p>
 
 <p>
-<span style="color: #008000;"><b>2026-06-01 Other:</b></span> We are hosting the <a href="https://nordic-biomathematics.github.io/">3rd Nordic Biomathematics Meeting</a> in Uppsala, December 3-4 (2026)!
+<span style="color: #008000;"><b>2026-06-01 Event:</b></span> We are hosting the <a href="https://nordic-biomathematics.github.io/">3rd Nordic Biomathematics Meeting</a> in Uppsala, December 3-4 (2026)!
 </p>
 
 
@@ -47,7 +47,7 @@ Nicolette Lakemond</a> and <a href="https://liu.se/medarbetare/gunho61">Gunnar H
 </p>
 
 <p>
-<span style="color: #008000;"><b>2025-08-20 Other:</b></span> We are hosting <a href="https://www.stancon2026.org">StanCon2026</a> in Uppsala, August 17-21!
+<span style="color: #008000;"><b>2025-08-20 Event:</b></span> We are hosting <a href="https://www.stancon2026.org">StanCon2026</a> in Uppsala, August 17-21!
 </p>
 
 <p>
@@ -88,7 +88,7 @@ Nicolette Lakemond</a> and <a href="https://liu.se/medarbetare/gunho61">Gunnar H
 </p>
 
 <p>
-<span style="color: #008000;"><b>2024-02-01 Other:</b></span> I joined Uppsala University as a <a href="https://www.beijerstiftelsen.se/en/partners/the-beijer-laboratory-researchers">Beijer Researcher</a> and assistant professor in machine learning. Hej Uppsala!
+<span style="color: #008000;"><b>2024-02-01:</b></span> I joined Uppsala University as a <a href="https://www.beijerstiftelsen.se/en/partners/the-beijer-laboratory-researchers">Beijer Researcher</a> and assistant professor in machine learning. Hej Uppsala!
 </p>
 
 
