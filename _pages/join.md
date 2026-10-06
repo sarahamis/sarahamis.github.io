@@ -55,10 +55,10 @@ Information about job openings and MSc/BSc projects are listed below.
 </div>
 
 <div style="background-color: #f7f7f7; border: 2px solid gray; border-radius: 8px; padding: 20px; margin: 20px;">
-<strong>2025-10-01:</strong>  In the first half of 2026, the AIMOn group offers computational mathematics and machine learning projects; both theoretical and those with applications in cancer research and bird ecology 🦅. <br> 
+<strong>2025-10-01:</strong>  In the first half of 2026, the AIMOn group offers computational mathematics and machine learning projects; both theoretical and those with applications in cancer research and bird ecology. <br> 
 </div>
 
 <div style="background-color: #f7f7f7; border: 2px solid gray; border-radius: 8px; padding: 20px; margin: 20px;">
-<strong>2024-09-12:</strong>   In the first half of 2025, the AIMOn group offers computational mathematics and machine learning projects with applications in cancer research, ecology and chess ♘. <br> 
+<strong>2024-09-12:</strong>   In the first half of 2025, the AIMOn group offers computational mathematics and machine learning projects with applications in cancer research, ecology and chess. <br> 
 </div>
 
