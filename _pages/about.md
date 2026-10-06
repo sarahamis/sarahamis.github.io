@@ -60,6 +60,10 @@ Nicolette Lakemond</a> and <a href="https://liu.se/medarbetare/gunho61">Gunnar H
 </p>
 
 <p>
+<span style="color: #800080;"><b>2025-01-01 Job listing:</b></span> <i>Postdoctoral researcher in mathematical oncology communication</i>  [person hired].
+</p>
+
+<p>
 <span style="color: #ff6600;"><b>2024-11-26 Grant (PI):</b></span>  I was awarded a scholarship from the <a href="https://www.swgc.org/">Wenner-Gren foundations</a> to fund a postdoctoral researcher for 2 years. 
 </p>
   
@@ -69,10 +73,6 @@ Nicolette Lakemond</a> and <a href="https://liu.se/medarbetare/gunho61">Gunnar H
 
 <p>
 <span style="color: #ff6600;"><b>2024-10-31 Grant (PI):</b></span> I was awarded a Starting Grant from the <a href="https://www.vr.se/english.html">Swedish Research Council</a> (Natural and engineering sciences 2024). 
-</p>
-
-<p>
-<span style="color: #800080;"><b>2024-06-12 Job listing:</b></span> <i>Postdoctoral researcher in mathematical oncology communication</i>  [person hired].
 </p>
 
 <p>
