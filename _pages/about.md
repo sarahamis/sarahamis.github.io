@@ -88,7 +88,7 @@ Nicolette Lakemond</a> and <a href="https://liu.se/medarbetare/gunho61">Gunnar H
 </p>
 
 <p>
-<span style="color: #008000;"><b>2024-02-01:</b></span> I joined Uppsala University as a <a href="https://www.beijerstiftelsen.se/en/partners/the-beijer-laboratory-researchers">Beijer Researcher</a> and assistant professor in machine learning. Hej Uppsala!
+<span style="color: #008000;"><b>2024-02-01 Job start:</b></span> I joined Uppsala University as a <a href="https://www.beijerstiftelsen.se/en/partners/the-beijer-laboratory-researchers">Beijer Researcher</a> and assistant professor in machine learning. Hej Uppsala!
 </p>
 
 
