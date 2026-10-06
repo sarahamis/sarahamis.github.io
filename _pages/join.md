@@ -48,7 +48,11 @@ Information about job openings and MSc/BSc projects are listed below.
 <b>Duration</b>: 5 years. 
 </div>
 
-## MSc projects (closed)
+## MSc projects
+
+<div style="background-color: #f7f7f7; border: 2px solid gray; border-radius: 8px; padding: 20px; margin: 20px;">
+<strong>2026-10-06:</strong>  In the first half of 2027, the AIMOn group offers projects in computational Bayesian inference and LLM training (the latter in Swedish). <br> 
+</div>
 
 <div style="background-color: #f7f7f7; border: 2px solid gray; border-radius: 8px; padding: 20px; margin: 20px;">
 <strong>2025-10-01:</strong>  In the first half of 2026, the AIMOn group offers computational mathematics and machine learning projects; both theoretical and those with applications in cancer research and bird ecology 🦅. <br> 
