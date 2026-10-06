@@ -9,8 +9,7 @@ redirect_from:
 ---
 
 <p>
-I am an Assistant Professor in Machine Learning, a 
-<a href="https://www.swgc.org/">Wenner-Gren Fellow</a> and a  
+I am an Assistant Professor in Machine Learning and a  
 <a href="https://beijerstiftelsen.se/en/partners/the-beijer-laboratory-ai-research">Beijer Researcher</a> at 
 <a href="https://www.uu.se/en">Uppsala University</a>. 
 My research focuses on developing mathematical, statistical and computational methods to understand and predict cancer dynamics. 
