@@ -9,7 +9,7 @@ Information about job openings and MSc/BSc projects are listed below.
 
 ## Upcoming positions (1)
 <div style="background-color: #f7f7f7; border: 2px solid gray; border-radius: 8px; padding: 20px; margin: 20px;">
-<strong> Expected announcement October 2026: Postdoctoral researcher on WASP & WASP-HS project.</strong> 
+<strong> Expected announcement October/November 2026: Postdoctoral researcher on WASP & WASP-HS project.</strong> 
 <b>Duration</b>: 2 years. 
 </div>
 
