@@ -34,7 +34,7 @@ Nicolette Lakemond</a> and <a href="https://liu.se/medarbetare/gunho61">Gunnar H
 </p>
 
 <p>
-<span style="color: #008000;"><b>2026-06-29 Award: </b></span> I was awarded the Uppsala University Oscar Prize <a href="https://www.uu.se/nyheter/2026/2026-06-29-oscarspris-till-sara-hamis-och-oskar-mossberg">(Oscarspriset)</a> 2026.
+<span style="color: #008000;"><b>2026-06-29 Award: </b></span> I was awarded the Uppsala University Oscar Prize <a href="https://www.beijerstiftelsen.se/nyheter/beijerforskaren-sara-hamis-tilldelas-oscarspriset">(Oscarspriset)</a> 2026.
 </p>
 
 <p>
