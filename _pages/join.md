@@ -10,7 +10,7 @@ Information about job openings and MSc/BSc projects are listed below.
 
 ## Open positions (2)
 <div style="background-color: #f7f7f7; border: 2px solid gray; border-radius: 8px; padding: 20px; margin: 20px;">
-<strong> 2024-03-20: Postdoctoral Researcher in Human-AI Decision-Making in Healthcare.</strong> 
+<strong> 2026-11-02: Postdoctoral Researcher in Human-AI Decision-Making in Healthcare.</strong> 
 <b>Duration</b>: 2 years. 
 <a href="https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=985810">Read more and apply</a>. Closes on December 4, 2026.
 </div>
