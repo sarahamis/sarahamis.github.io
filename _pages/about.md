@@ -29,7 +29,7 @@ I previously worked as a postdoctoral researcher at the University of St Andrews
 </p>
 
 <p>
-<span style="color: #800080;"><b>2026-09-23 Job listing: </b></span> <i>PhD student in Machine Learning with a focus on mathematical and statistical methods for uncertainty quantification. [Closed for applications]. 
+<span style="color: #800080;"><b>2026-09-23 Job listing: </b></span> <i>PhD student in Machine Learning with a focus on mathematical and statistical methods for uncertainty quantification. </i>i> [Closed for applications]. 
 </p>
 
 <p>
