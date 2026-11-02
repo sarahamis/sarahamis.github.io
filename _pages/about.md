@@ -25,7 +25,7 @@ I previously worked as a postdoctoral researcher at the University of St Andrews
 ## *News*
 
 <p>
-<span style="color: #800080;"><b>2026-11-02 Job listing: </b></span> <i>Postdoctoral Researcher in Human-AI Decision-Making in Healthcare.</i> <a href="https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=985810">Read more and apply</a>. 
+<span style="color: #800080;"><b>2026-11-02 Job listing: </b></span> <i>Postdoctoral Researcher in Human-AI Decision-Making in Healthcare.</i> <a href="https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=985810">Read more and apply</a>. Closes on December 4, 2026.
 </p>
 
 <p>
