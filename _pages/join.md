@@ -7,13 +7,14 @@ author_profile: true
 
 Information about job openings and MSc/BSc projects are listed below.
 
-## Upcoming positions (1)
+
+## Open positions (2)
 <div style="background-color: #f7f7f7; border: 2px solid gray; border-radius: 8px; padding: 20px; margin: 20px;">
-<strong> Expected announcement November 2026: Postdoctoral researcher on a <a href="https://wasp-hs.org/three-projects-awarded-funding-in-first-joint-wasp-and-wasp-hs-call/">joint WASP and WASP-HS</a> project.</strong> 
+<strong> 2024-03-20: Postdoctoral Researcher in Human-AI Decision-Making in Healthcare.</strong> 
 <b>Duration</b>: 2 years. 
+<a href="https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=985810">Read more and apply</a>. 
 </div>
 
-## Open positions (1)
 <div style="background-color: #f7f7f7; border: 2px solid gray; border-radius: 8px; padding: 20px; margin: 20px;">
 <strong> 2026-09-23: PhD student in Machine Learning with a focus on mathematical and statistical methods for uncertainty quantification. </strong>
 <b>Duration</b>: 5 years. <i> Closed for applications.</i>
