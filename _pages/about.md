@@ -25,11 +25,11 @@ I previously worked as a postdoctoral researcher at the University of St Andrews
 ## *News*
 
 <p>
-<span style="color: #800080;"><b>2026-11-02 Job listing: </b></span> <i>Postdoctoral Researcher in Human-AI Decision-Making in Healthcare. </i> <a href="https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=985810">Read more and apply</a>. 
+<span style="color: #800080;"><b>2026-11-02 Job listing: </b></span> <i>Postdoctoral Researcher in Human-AI Decision-Making in Healthcare.</i> <a href="https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=985810">Read more and apply</a>. 
 </p>
 
 <p>
-<span style="color: #800080;"><b>2026-09-23 Job listing: </b></span> <i>PhD student in Machine Learning with a focus on mathematical and statistical methods for uncertainty quantification. </i>i> [Closed for applications]. 
+<span style="color: #800080;"><b>2026-09-23 Job listing: </b></span> <i>PhD student in Machine Learning with a focus on mathematical and statistical methods for uncertainty quantification.</i> [Closed for applications]. 
 </p>
 
 <p>
