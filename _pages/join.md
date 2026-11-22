@@ -7,22 +7,22 @@ author_profile: true
 
 Information about job openings and MSc/BSc projects are listed below.
 
+## Upcoming/planned positions (0)
 
-## Open positions (2)
+
+## Open positions (1)
 <div style="background-color: #f7f7f7; border: 2px solid gray; border-radius: 8px; padding: 20px; margin: 20px;">
 <strong> 2026-11-02: Postdoctoral Researcher in Human-AI Decision-Making in Healthcare.</strong> 
 <b>Duration</b>: 2 years. 
 <a href="https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=985810">Read more and apply</a>. Closes on December 4, 2026.
 </div>
 
+
+## Closed applications, appointed positions (7)
 <div style="background-color: #f7f7f7; border: 2px solid gray; border-radius: 8px; padding: 20px; margin: 20px;">
 <strong> 2026-09-23: PhD student in Machine Learning with a focus on mathematical and statistical methods for uncertainty quantification. </strong>
-<b>Duration</b>: 5 years. <i> Closed for applications.</i>
+<b>Duration</b>: 5 years. 
 </div> 
-
-
-
-## Closed applications, appointed positions (6)
 
 <div style="background-color: #f7f7f7; border: 2px solid gray; border-radius: 8px; padding: 20px; margin: 20px;">
 <strong> 2025-04-30: PhD student in Machine Learning with a focus on Bayesian models and methods for biomedicine.</strong>
