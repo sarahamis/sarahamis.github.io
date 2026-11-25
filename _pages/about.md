@@ -25,6 +25,11 @@ I previously worked as a postdoctoral researcher at the University of St Andrews
 ## *News*
 
 <p>
+<span style="color: #ff6600;"><b>2026-11-25 Grant (PI):</b></span> We were awarded a <a href="https://wasp-hs.org/three-projects-awarded-funding-in-first-joint-wasp-and-wasp-hs-call/">joint WASP and DDLS</a> project grant to fund a two postdoctoral researchers. WASP PI: me. DDLS PI: <a href="https://liu.se/en/employee/nicla05">
+Erik Jansson</a>.
+</p>
+
+<p>
 <span style="color: #800080;"><b>2026-11-02 Job listing: </b></span> <i>Postdoctoral Researcher in Human-AI Decision-Making in Healthcare.</i> <a href="https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=985810">Read more and apply</a>.
 </p>
 
