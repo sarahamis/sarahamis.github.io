@@ -21,7 +21,7 @@ Information about job openings and MSc/BSc projects are listed below.
 </div>
 
 
-## Closed applications, appointed positions (7)
+## Closed applications (6), appointed positions (7)
 <div style="background-color: #f7f7f7; border: 2px solid gray; border-radius: 8px; padding: 20px; margin: 20px;">
 <strong> 2026-09-23: PhD student in Machine Learning with a focus on mathematical and statistical methods for uncertainty quantification. </strong>
 <b>Duration</b>: 5 years. 
