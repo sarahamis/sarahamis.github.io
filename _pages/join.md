@@ -9,7 +9,7 @@ Information about job openings and MSc/BSc projects are listed below.
 
 ## Upcoming/planned positions (1)
 <div style="background-color: #f7f7f7; border: 2px solid gray; border-radius: 8px; padding: 20px; margin: 20px;">
-<strong> Expected to open January: Postdoctoral researcher in probabilistic modelling and inference of molecular event cascades. 
+<strong> Expected to open January: Postdoctoral researcher in probabilistic modelling and inference of molecular event cascades.</strong> 
 </div>
 
 
