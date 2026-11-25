@@ -7,12 +7,15 @@ author_profile: true
 
 Information about job openings and MSc/BSc projects are listed below.
 
-## Upcoming/planned positions (0)
+## Upcoming/planned positions (1)
+<div style="background-color: #f7f7f7; border: 2px solid gray; border-radius: 8px; padding: 20px; margin: 20px;">
+<strong> Expected in January: Postdoctoral researcher in probabilistic modelling and inference of molecular event cascades. 
+</div>
 
 
 ## Open positions (1)
 <div style="background-color: #f7f7f7; border: 2px solid gray; border-radius: 8px; padding: 20px; margin: 20px;">
-<strong> 2026-11-02: Postdoctoral Researcher in Human-AI Decision-Making in Healthcare.</strong> 
+<strong> 2026-11-02: Postdoctoral researcher in human-AI decision-making in healthcare.</strong> 
 <b>Duration</b>: 2 years. 
 <a href="https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=985810">Read more and apply</a>. Closes on December 4, 2026.
 </div>
