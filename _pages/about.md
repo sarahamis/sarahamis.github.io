@@ -25,7 +25,7 @@ I previously worked as a postdoctoral researcher at the University of St Andrews
 ## *News*
 
 <p>
-<span style="color: #ff6600;"><b>2026-11-25 Grant (PI):</b></span> We were awarded a <a href="https://wasp-hs.org/three-projects-awarded-funding-in-first-joint-wasp-and-wasp-hs-call/">joint WASP and DDLS</a> project grant to fund a two postdoctoral researchers for 3 years. WASP PI: me. DDLS PI: <a href="https://www.uu.se/kontakt-och-organisation/personal?query=N15-1950">
+<span style="color: #ff6600;"><b>2026-11-25 Grant (PI):</b></span> We were awarded a <a href="https://wasp-hs.org/three-projects-awarded-funding-in-first-joint-wasp-and-wasp-hs-call/">joint WASP and DDLS</a> project grant to fund two postdoctoral researchers for 3 years. WASP PI: me. DDLS PI: <a href="https://www.uu.se/kontakt-och-organisation/personal?query=N15-1950">
 Erik Jansson</a>.
 </p>
 
@@ -38,7 +38,7 @@ Erik Jansson</a>.
 </p>
 
 <p>
-<span style="color: #ff6600;"><b>2026-09-08 Grant (PI):</b></span> We were awarded a <a href="https://wasp-hs.org/three-projects-awarded-funding-in-first-joint-wasp-and-wasp-hs-call/">joint WASP and WASP-HS</a> project grant to fund a project and postdoctoral researcher. WASP PI: me. WASP-HS PI and co-I: <a href="https://liu.se/en/employee/nicla05">
+<span style="color: #ff6600;"><b>2026-09-08 Grant (PI):</b></span> We were awarded a <a href="https://wasp-hs.org/three-projects-awarded-funding-in-first-joint-wasp-and-wasp-hs-call/">joint WASP and WASP-HS</a> project grant to fund a project and postdoctoral researcher for 2 years. WASP PI: me. WASP-HS PI and co-I: <a href="https://liu.se/en/employee/nicla05">
 Nicolette Lakemond</a> and <a href="https://liu.se/medarbetare/gunho61">Gunnar Holmberg</a>.
 </p>
 
