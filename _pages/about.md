@@ -25,7 +25,7 @@ I previously worked as a postdoctoral researcher at the University of St Andrews
 ## *News*
 
 <p>
-<span style="color: #ff6600;"><b>2026-11-25 Grant (PI):</b></span> We were awarded a <a href="https://wasp-hs.org/three-projects-awarded-funding-in-first-joint-wasp-and-wasp-hs-call/">joint WASP and DDLS</a> project grant to fund a two postdoctoral researchers. WASP PI: me. DDLS PI: <a href="https://liu.se/en/employee/nicla05">
+<span style="color: #ff6600;"><b>2026-11-25 Grant (PI):</b></span> We were awarded a <a href="https://wasp-hs.org/three-projects-awarded-funding-in-first-joint-wasp-and-wasp-hs-call/">joint WASP and DDLS</a> project grant to fund a two postdoctoral researchers. WASP PI: me. DDLS PI: <a href="https://www.uu.se/kontakt-och-organisation/personal?query=N15-1950">
 Erik Jansson</a>.
 </p>
 
