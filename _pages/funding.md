@@ -9,29 +9,37 @@ I thank the funders who support my research.
 
 ### Current funding as Principal Investigator (PI)
 
-My research is supported by 
-- the Beijer Foundation (<a href="https://www.beijerstiftelsen.se">Kjell och Märta Beijers stiftelse</a>) through my appointment as a Beijer Researcher and support towards a postdoc (since 2024),
-- the Wenner-Gren Foundations (<a href="https://www.swgc.org/">Wenner-Gren stiftelserna</a>) through a postdoc-recruitment grant (since 2024),
-- the Swedish Research Council (<a href="https://www.vr.se/english.html">Vetenskapsrådet</a>) through a Starting Grant (since 2024),
-- the Wallenberg AI, Autonomous Systems and Software Program (<a href="https://wasp-sweden.org/">WASP</a>) through a double-recruitment PhD project grant (since 2025),
-- the SciLifeLab and Wallenberg National Program for Data-Driven Life Science (<a href="https://www.scilifelab.se/data-driven/">DDLS</a>) through a PhD project grant (since 2026),
-- the Wallenberg AI, Autonomous Systems and Software Program (<a href="https://wasp-sweden.org/">WASP</a>) and WASP's Human Society branch (<a href="https://wasp-hs.org/">WASP-HS</a>) through a project grant recruiting a postdoc (since 2026).
+My research group and I are supported by: 
+- the Beijer Foundation (<a href="https://www.beijerstiftelsen.se">Kjell och Märta Beijers stiftelse</a>) through my appointment as a Beijer Researcher (since 2024) and postdoctoral recruitment funding,
+- the Wenner-Gren Foundations (<a href="https://www.swgc.org/">Wenner-Gren stiftelserna</a>) through a postdoctoral recruitment grant (awarded in 2024),
+- the Swedish Research Council (<a href="https://www.vr.se/english.html">Vetenskapsrådet</a>) through a Starting Grant (awarded in 2024),
+- the Wallenberg AI, Autonomous Systems and Software Program (<a href="https://wasp-sweden.org/">WASP</a>) through a doctoral project grant supporting two PhD students and associated research activities (awarded in 2025),
+- the SciLifeLab and Wallenberg National Program for Data-Driven Life Science (<a href="https://www.scilifelab.se/data-driven/">DDLS</a>) through a doctoral project grant supporting one PhD student and associated research activities (awarded in 2026),
+- WASP and <a href="https://wasp-hs.org/">WASP-HS</a> through a joint research project grant supporting a two-year postdoctoral position and associated research activities (WASP PI, awarded in 2026),
+- WASP and DDLS through a joint research project grant supporting two three-year postdoctoral positions (one in my research group) and associated research activities (WASP PI, awarded in 2026).
 
-My work for <a href="https://interbayes.github.io/">interBayes</a> is supported by <a href="https://www.uu.se/en/centre/circus">Circus</a> (since 2025).<br>
 
-  
 ### Selected previous funding as Principal Investigator (PI)
-- I had a Wenner-Gren (<a href="https://www.swgc.org/">Wenner-Gren stiftelserna</a>) repatriation grant (2024-2026),
-- I had a Wenner-Gren (<a href="https://www.swgc.org/">Wenner-Gren stiftelserna</a>) Postdoctoral Fellowship (2022-2024),
-- I had a <a href="https://research.tuni.fi/tampere-ias/">Tampere Institute for Advanced Study</a> Postdoctoral Fellowship (2021-2023),
-- I had a Jyväskylä University Visiting Postdoctoral Fellowship (2021),
-- In 2024-2026 I received travel/invitation grants from: Esseens f matematik (four times); the MATRIX-Simons Scheme; Letterstedts resestip; eSSENCE Exchange; UU-IT Equal Opportunities; Wenner-Gren stiftelserna; the Royal Swedish Academy of Sciences (KVA-matematik).
+
+My research group and I were previously supported through: 
+- Wenner-Gren (<a href="https://www.swgc.org/">Wenner-Gren stiftelserna</a>) Repatriation Grant (2024–2026),
+- Wenner-Gren (<a href="https://www.swgc.org/">Wenner-Gren stiftelserna</a>) Postdoctoral Fellowship (2022–2024),
+- <a href="https://research.tuni.fi/tampere-ias/">Tampere Institute for Advanced Study</a> Postdoctoral Fellowship (2021–2023),
+- University of Jyväskylä Visiting Postdoctoral Fellowship (2021),
+- Travel and research visit grants (2024–2026) from: Esséens fond för matematik (four awards); the MATRIX-Simons Scheme; Letterstedtska föreningen; eSSENCE Exchange; UU-IT Equal Opportunities; the Wenner-Gren Foundations; and the Royal Swedish Academy of Sciences (KVA).
 
 
-### Selected previous funding as co-Investigator (co-I)
-My work was supported by 
-- a network grant from the  <a href="https://www.vr.se/english.html">Swedish Research Council</a> for planning future excellence clusters (2025-2026). PI: <a href="https://www.uu.se/en/contact-and-organisation/staff?query=N15-1950">Erik Jansson</a>. 
+### Selected funding as Co-Investigator (Co-I)
 
-### Selected funding for Scientific Meetings that I am organising with colleagues
-- <a href="https://www.stancon2026.org/">StanCon 2026</a> is funded by Kjell och Märta Beijers stiftelse, eSSENCE, The Swedish Excellence Centre for Social Science, and Carl Tryggers Foundation.
-- <a href="https://nordic-biomathematics.github.io">The 3rd Nordic Biomathematics Meeting</a> is funded by Wenner-Gren stiftelserna.
+I am or have been a co-investigator on:
+- a network grant from the <a href="https://www.vr.se/english.html">Swedish Research Council</a> for planning future excellence clusters (2025–2026; PI: <a href="https://www.uu.se/en/contact-and-organisation/staff?query=N15-1950">Erik Jansson</a>),
+- a network grant from <a href="https://www.uu.se/en/centre/circus">CIRCUS</a> supporting the <a href="https://interbayes.github.io/">interBayes</a> research network (2025–2026),
+- a research project grant from the <a href="https://www.vr.se/english.html">Swedish Research Council</a> (awarded in 2026; PI: <a href="https://www.uu.se/en/contact-and-organisation/staff?query=N16-734">Pär Stattin</a>).
+  
+
+### Selected funding for scientific meetings
+
+Scientific meetings for which I am one of the main organisers:
+
+- <a href="https://www.stancon2026.org/">StanCon 2026</a> was funded by Kjell och Märta Beijers stiftelse, eSSENCE, The Swedish Excellence Centre for Social Science, and Carl Tryggers Foundation,
+- <a href="https://nordic-biomathematics.github.io">The 3rd Nordic Biomathematics Meeting</a> was funded by Wenner-Gren stiftelserna.
