@@ -69,7 +69,7 @@ Nicolette Lakemond</a> and <a href="https://liu.se/medarbetare/gunho61">Gunnar H
 </p>
 
 <p>
-<span style="color: #800080;"><b>2025-01-01 Job listing:</b></span> <i>Postdoctoral researcher in mathematical oncology communication</i>  [person hired].
+<span style="color: #800080;"><b>2024-12-01 Job listing:</b></span> <i>Postdoctoral researcher in mathematical oncology communication</i>  [person hired].
 </p>
 
 <p>
