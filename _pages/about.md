@@ -56,7 +56,7 @@ Nicolette Lakemond</a> and <a href="https://liu.se/medarbetare/gunho61">Gunnar H
 </p>
 
 <p>
-<span style="color: #008000;"><b>2025-08-20 Event:</b></span> We are hosting <a href="https://www.stancon2026.org">StanCon2026</a> in Uppsala, August 17-21!
+<span style="color: #008000;"><b>2025-08-20 Event:</b></span> We are hosting <a href="https://www.stancon2026.org">StanCon2026</a> in Uppsala, August 17-21 (2026)!
 </p>
 
 <p>
